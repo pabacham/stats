@@ -1,0 +1,1508 @@
+
+
+<!--UdmComment-->
+<script type="text/javascript" src="/navmenu/scripts/b_khl_en.js" charset="utf-8"></script><div style="display:none"><img class="stimg" src="http://www.khl.ru/navmenu/images1/blank.gif" border="0"></div><div style="display:none"><img class="stimg" src="http://www.khl.ru/navmenu/images1/en_khl_logo.png" border="0"></div><div style="display:none"><img class="stimg" src="http://www.khl.ru/navmenu/images1/en_khl_logo2.png" border="0"></div><div style="display:none"><img class="stimg" src="http://www.khl.ru/navmenu/images1/vhl_logo_d.png" border="0"></div><div style="display:none"><img class="stimg" src="http://www.khl.ru/navmenu/images1/vhl_logo.png" border="0"></div><div style="display:none"><img class="stimg" src="http://www.khl.ru/navmenu/images1/mhl_logo_b.png" border="0"></div><div style="display:none"><img class="stimg" src="http://www.khl.ru/navmenu/images1/mhl_logo.png" border="0"></div><div style="display:none"><img class="stimg" src="http://www.khl.ru/navmenu/images1/bg.gif" border="0"></div><div style="display:none"><img class="stimg" src="http://www.khl.ru/navmenu/images1/w_n_arrow_.png" border="0"></div><div style="display:none"><img class="stimg" src="http://www.khl.ru/navmenu/images1/n_arrow_.png" border="0"></div><div style="display:none"><img class="stimg" src="http://www.khl.ru/navmenu/images1/060420arrow2.gif" border="0"></div><div style="display:none"><img class="stimg" src="http://www.khl.ru/navmenu/images1/vhl.gif" border="0"></div><div style="display:none"><img class="stimg" src="http://www.khl.ru/navmenu/images1/mhl.gif" border="0"></div><div style="display:none"><img class="stimg" src="http://www.khl.ru/navmenu/images1/torpedo.gif" border="0"></div><div style="display:none"><img class="stimg" src="http://www.khl.ru/navmenu/images1/akbars.gif" border="0"></div><div style="display:none"><img class="stimg" src="http://www.khl.ru/navmenu/images1/automobilist.gif" border="0"></div><div style="display:none"><img class="stimg" src="http://www.khl.ru/navmenu/images1/metalMg.gif" border="0"></div><div style="display:none"><img class="stimg" src="http://www.khl.ru/navmenu/images1/neftehimik.gif" border="0"></div><div style="display:none"><img class="stimg" src="http://www.khl.ru/navmenu/images1/traktor.gif" border="0"></div><div style="display:none"><img class="stimg" src="http://www.khl.ru/navmenu/images1/ugra.gif" border="0"></div><div style="display:none"><img class="stimg" src="http://www.khl.ru/navmenu/images1/sibir.gif" border="0"></div><div style="display:none"><img class="stimg" src="http://www.khl.ru/navmenu/images1/amur.gif" border="0"></div><div style="display:none"><img class="stimg" src="http://www.khl.ru/navmenu/images1/avangard.gif" border="0"></div><div style="display:none"><img class="stimg" src="http://www.khl.ru/navmenu/images1/barys.gif" border="0"></div><div style="display:none"><img class="stimg" src="http://www.khl.ru/navmenu/images1/metalNk.gif" border="0"></div><div style="display:none"><img class="stimg" src="http://www.khl.ru/navmenu/images1/Salavat.gif" border="0"></div><div style="display:none"><img class="stimg" src="http://www.khl.ru/navmenu/images1/pop_bg.png" border="0"></div><div style="display:none"><img class="stimg" src="http://www.khl.ru/navmenu/images1/fanzona.png" border="0"></div><div style="display:none"><img class="stimg" src="http://www.khl.ru/navmenu/images1/shop.png" border="0"></div><div style="display:none"><img class="stimg" src="http://www.khl.ru/navmenu/images1/videomenu.png" border="0"></div><div style="display:none"><img class="stimg" src="http://www.khl.ru/navmenu/images1/txtmenu.png" border="0"></div><div style="display:none"><img class="stimg" src="http://www.khl.ru/navmenu/images1/photomenu.png" border="0"></div><div style="display:none"><img class="stimg" src="http://www.khl.ru/navmenu/images1/tickets.png" border="0"></div><div style="display:none"><img class="stimg" src="http://www.khl.ru/navmenu/images1/rss.png" border="0"></div><div style="display:none"><img class="stimg" src="http://www.khl.ru/navmenu/images1/apple2.png" border="0"></div><div style="display:none"><img class="stimg" src="http://www.khl.ru/navmenu/images1/droid.png" border="0"></div><div style="display:none"><img class="stimg" src="http://www.khl.ru/navmenu/images1/_2015_allstars.png" border="0"></div><div style="display:none"><img class="stimg" src="http://www.khl.ru/navmenu/images1/cards.png" border="0"></div><div style="display:none"><img class="stimg" src="http://www.khl.ru/navmenu/images1/store_icon_d.png" border="0"></div><div style="display:none"><img class="stimg" src="http://www.khl.ru/navmenu/images1/store_icon_u.png" border="0"></div><div style="display:none"><img class="stimg" src="http://www.khl.ru/navmenu/images1/video_icon_d.png" border="0"></div><div style="display:none"><img class="stimg" src="http://www.khl.ru/navmenu/images1/video_icon_u.png" border="0"></div><div style="display:none"><img class="stimg" src="http://www.khl.ru/navmenu/images1/facebook_icon_d.png" border="0"></div><div style="display:none"><img class="stimg" src="http://www.khl.ru/navmenu/images1/facebook_icon_u.png" border="0"></div><div style="display:none"><img class="stimg" src="http://www.khl.ru/navmenu/images1/instagram_icon_d.png" border="0"></div><div style="display:none"><img class="stimg" src="http://www.khl.ru/navmenu/images1/instagram_icon_u.png" border="0"></div><div style="display:none"><img class="stimg" src="http://www.khl.ru/navmenu/images1/w_yt_ico_b.png" border="0"></div><div style="display:none"><img class="stimg" src="http://www.khl.ru/navmenu/images1/w_yt_ico_u.png" border="0"></div><table cellpadding="0" cellspacing="0" id="stUI2" class="sttb" style="border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-color: rgb(35, 47, 55); border-right-color: rgb(35, 47, 55); border-bottom-color: rgb(78, 102, 119); border-left-color: rgb(35, 47, 55); width: 100%; visibility: visible; " align="center" onmouseover="return _STNS.UI.fbDmEnt(event,this)" onmouseout="return _STNS.UI.fbDmEnt(event,this)"><tbody><tr class="sttr"><td class="sttd" style="background-color:#232f37;"><table style="margin: 0 auto;" cellpadding="0" cellspacing="0" align="center" id="stUI2_body" class="sttb"><tbody><tr><td class="sttd"><a tabindex="100" onclick="return _STNS.UI.fbDmEnt(event,this)" onkeydown="return _STNS.UI.fbDmEnt(event,this)" onmouseover="return _STNS.UI.fbDmEnt(event,this)" onmouseout="return _STNS.UI.fbDmEnt(event,this)" href="http://en.khl.ru/" target="_blank" id="stUI3_lnk" class="sta" style="outline:none;text-decoration:none;cursor:hand"><table cellspacing="0" onmouseover="return _STNS.UI.fbDmEnt(event,this)" onmouseout="return _STNS.UI.fbDmEnt(event,this)" onmousemove="return _STNS.UI.fbDmEnt(event,this)" cellpadding="0px" id="stUI3" class="sttb" style="width:73px;height:43px;"><tbody><tr><td id="stUI3_itd" nowrap="" align="left" valign="middle" class="sttd" style="height:43px;background-repeat:repeat;"><table cellspacing="0" onmouseover="return _STNS.UI.fbDmEnt(event,this)" onmouseout="return _STNS.UI.fbDmEnt(event,this)" onmousemove="return _STNS.UI.fbDmEnt(event,this)" cellpadding="0" id="stUI3_itb" class="sttb" style="width:100%;height:100%;"><tbody><tr><td id="stUI3_cnt" nowrap="" class="sttd" align="left" valign="middle"> <span id="stUI3_txt" class="stsp" style="color:#000000;font:8pt 'Tahoma','Arial';text-decoration:none;"><img class="stimg" src="http://www.khl.ru/navmenu/images1/en_khl_logo.png" width="64" height="43" border="0" id="stUI3_img"></span></td></tr></tbody></table></td></tr></tbody></table></a></td><td class="sttd"><a tabindex="100" onclick="return _STNS.UI.fbDmEnt(event,this)" onkeydown="return _STNS.UI.fbDmEnt(event,this)" onmouseover="return _STNS.UI.fbDmEnt(event,this)" onmouseout="return _STNS.UI.fbDmEnt(event,this)" href="http://www.vhlru.ru/" target="_blank" id="stUI4_lnk" class="sta" style="outline:none;text-decoration:none;cursor:hand"><table cellspacing="0" onmouseover="return _STNS.UI.fbDmEnt(event,this)" onmouseout="return _STNS.UI.fbDmEnt(event,this)" onmousemove="return _STNS.UI.fbDmEnt(event,this)" cellpadding="0px" id="stUI4" class="sttb" style="width:50px;height:43px;"><tbody><tr><td id="stUI4_itd" nowrap="" align="center" valign="middle" class="sttd" style="height:43px;background-repeat:repeat;"><table cellspacing="0" onmouseover="return _STNS.UI.fbDmEnt(event,this)" onmouseout="return _STNS.UI.fbDmEnt(event,this)" onmousemove="return _STNS.UI.fbDmEnt(event,this)" cellpadding="0" id="stUI4_itb" class="sttb" style="width:100%;height:100%;"><tbody><tr><td id="stUI4_cnt" nowrap="" class="sttd" align="center" valign="middle"> <span id="stUI4_txt" class="stsp" style="color:#000000;font:8pt 'Tahoma','Arial';text-decoration:none;"><img class="stimg" src="http://www.khl.ru/navmenu/images1/vhl_logo_d.png" width="34" height="34" border="0" id="stUI4_img"></span></td></tr></tbody></table></td></tr></tbody></table></a></td><td class="sttd"><a tabindex="100" onclick="return _STNS.UI.fbDmEnt(event,this)" onkeydown="return _STNS.UI.fbDmEnt(event,this)" onmouseover="return _STNS.UI.fbDmEnt(event,this)" onmouseout="return _STNS.UI.fbDmEnt(event,this)" href="http://mhl.khl.ru/en/" target="_blank" id="stUI5_lnk" class="sta" style="outline:none;text-decoration:none;cursor:hand"><table cellspacing="0" onmouseover="return _STNS.UI.fbDmEnt(event,this)" onmouseout="return _STNS.UI.fbDmEnt(event,this)" onmousemove="return _STNS.UI.fbDmEnt(event,this)" cellpadding="0px" id="stUI5" class="sttb" style="width:50px;height:43px;"><tbody><tr><td id="stUI5_itd" nowrap="" align="center" valign="middle" class="sttd" style="height:43px;background-repeat:repeat;"><table cellspacing="0" onmouseover="return _STNS.UI.fbDmEnt(event,this)" onmouseout="return _STNS.UI.fbDmEnt(event,this)" onmousemove="return _STNS.UI.fbDmEnt(event,this)" cellpadding="0" id="stUI5_itb" class="sttb" style="width:100%;height:100%;"><tbody><tr><td id="stUI5_cnt" nowrap="" class="sttd" align="center" valign="middle"> <span id="stUI5_txt" class="stsp" style="color:#000000;font:8pt 'Tahoma','Arial';text-decoration:none;"><img class="stimg" src="http://www.khl.ru/navmenu/images1/mhl_logo_b.png" width="34" height="34" border="0" id="stUI5_img"></span></td><td id="stUI5_arr" class="sttd" style="width:-1px" align="right"><img class="stimg" src="http://www.khl.ru/navmenu/images1/blank.gif" border="0" id="stUI5_arrImg"></td></tr></tbody></table></td></tr></tbody></table></a></td><td class="sttd"><table cellpadding="0" cellspacing="0" id="stUI9" class="sttb" style="line-height: 0pt; width: 30px; background-color: rgb(35, 47, 55); height: 43px; "><tbody><tr><td align="center" valign="middle"><img class="stimg" src="http://www.khl.ru/navmenu/images1/blank.gif" border="0"></td></tr></tbody></table></td><td class="sttd"><a tabindex="100" onclick="return _STNS.UI.fbDmEnt(event,this)" onkeydown="return _STNS.UI.fbDmEnt(event,this)" onmouseover="return _STNS.UI.fbDmEnt(event,this)" onmouseout="return _STNS.UI.fbDmEnt(event,this)" href="#" target="_blank" id="stUI10_lnk" class="sta" style="outline:none;text-decoration:none;cursor:hand"><table cellspacing="0" onmouseover="return _STNS.UI.fbDmEnt(event,this)" onmouseout="return _STNS.UI.fbDmEnt(event,this)" onmousemove="return _STNS.UI.fbDmEnt(event,this)" cellpadding="0px" id="stUI10" class="sttb" style="width:170px;height:43px;"><tbody><tr><td id="stUI10_itd" nowrap="" align="center" valign="middle" class="sttd" style="height:43px;background-repeat:repeat-x;"><table cellspacing="0" onmouseover="return _STNS.UI.fbDmEnt(event,this)" onmouseout="return _STNS.UI.fbDmEnt(event,this)" onmousemove="return _STNS.UI.fbDmEnt(event,this)" cellpadding="0" id="stUI10_itb" class="sttb" style="width:100%;height:100%;"><tbody><tr><td id="stUI10_cnt" nowrap="" class="sttd" align="center" valign="middle"> <span id="stUI10_txt" class="stsp" style="color:#e6eef5;font:14px 'Arial','Verdana';text-decoration:none;"><div style="text-align:center;font-size:14px; font-family:Arial, tahoma; padding-left:20px; font-weight:600;">TEAMS</div></span></td><td id="stUI10_arr" class="sttd" style="width:70px" align="right"><img class="stimg" src="http://www.khl.ru/navmenu/images1/w_n_arrow_.png" width="70" height="10" border="0" id="stUI10_arrImg"></td></tr></tbody></table></td></tr></tbody></table></a></td><td class="sttd"><table cellpadding="0" cellspacing="0" id="stUI118" class="sttb" style="line-height: 0pt; width: 30px; background-color: rgb(35, 47, 55); height: 43px; "><tbody><tr><td align="center" valign="middle"><img class="stimg" src="http://www.khl.ru/navmenu/images1/blank.gif" border="0"></td></tr></tbody></table></td><td class="sttd"><table cellpadding="0" cellspacing="0" id="stUI119" class="sttb" style="line-height: 0pt; width: 30px; background-color: rgb(35, 47, 55); height: 43px; "><tbody><tr><td align="center" valign="middle"><img class="stimg" src="http://www.khl.ru/navmenu/images1/blank.gif" border="0"></td></tr></tbody></table></td><td class="sttd"><a tabindex="100" onclick="return _STNS.UI.fbDmEnt(event,this)" onkeydown="return _STNS.UI.fbDmEnt(event,this)" onmouseover="return _STNS.UI.fbDmEnt(event,this)" onmouseout="return _STNS.UI.fbDmEnt(event,this)" href="#" target="_blank" id="stUI120_lnk" class="sta" style="outline:none;text-decoration:none;cursor:hand"><table cellspacing="0" onmouseover="return _STNS.UI.fbDmEnt(event,this)" onmouseout="return _STNS.UI.fbDmEnt(event,this)" onmousemove="return _STNS.UI.fbDmEnt(event,this)" cellpadding="0px" id="stUI120" class="sttb" style="width:200px;height:43px;"><tbody><tr><td id="stUI120_itd" nowrap="" align="center" valign="middle" class="sttd" style="height:43px;background-repeat:repeat-x;"><table cellspacing="0" onmouseover="return _STNS.UI.fbDmEnt(event,this)" onmouseout="return _STNS.UI.fbDmEnt(event,this)" onmousemove="return _STNS.UI.fbDmEnt(event,this)" cellpadding="0" id="stUI120_itb" class="sttb" style="width:100%;height:100%;"><tbody><tr><td id="stUI120_cnt" nowrap="" class="sttd" align="center" valign="middle"> <span id="stUI120_txt" class="stsp" style="color:#e6eef5;font:14px Tahoma;text-decoration:none;"><div style="text-align:center;font-size:14px; font-family:Arial, tahoma; padding-left:30px; font-weight:600;">PROJECTS</div></span></td><td id="stUI120_arr" class="sttd" style="width:70px" align="right"><img class="stimg" src="http://www.khl.ru/navmenu/images1/w_n_arrow_.png" width="70" height="10" border="0" id="stUI120_arrImg"></td></tr></tbody></table></td></tr></tbody></table></a></td><td class="sttd"><table cellpadding="0" cellspacing="0" id="stUI136" class="sttb" style="line-height: 0pt; width: 30px; background-color: rgb(35, 47, 55); height: 43px; "><tbody><tr><td align="center" valign="middle"><img class="stimg" src="http://www.khl.ru/navmenu/images1/blank.gif" border="0"></td></tr></tbody></table></td><td class="sttd"><a tabindex="100" onclick="return _STNS.UI.fbDmEnt(event,this)" onkeydown="return _STNS.UI.fbDmEnt(event,this)" onmouseover="return _STNS.UI.fbDmEnt(event,this)" onmouseout="return _STNS.UI.fbDmEnt(event,this)" href="http://store.khl.ru/en/" target="_blank" id="stUI137_lnk" class="sta" style="outline:none;text-decoration:none;cursor:hand"><table cellspacing="0" onmouseover="return _STNS.UI.fbDmEnt(event,this)" onmouseout="return _STNS.UI.fbDmEnt(event,this)" onmousemove="return _STNS.UI.fbDmEnt(event,this)" cellpadding="0px" id="stUI137" class="sttb" style="width:35px;height:43px;"><tbody><tr><td id="stUI137_itd" nowrap="" align="right" valign="middle" class="sttd" style="height:43px;background-repeat:repeat;"><table cellspacing="0" onmouseover="return _STNS.UI.fbDmEnt(event,this)" onmouseout="return _STNS.UI.fbDmEnt(event,this)" onmousemove="return _STNS.UI.fbDmEnt(event,this)" cellpadding="0" id="stUI137_itb" class="sttb" style="width:100%;height:100%;"><tbody><tr><td id="stUI137_cnt" nowrap="" class="sttd" align="right" valign="middle"> <span id="stUI137_txt" class="stsp" style="color:#000000;font:8pt 'Tahoma','Arial';text-decoration:none;"><img class="stimg" src="http://www.khl.ru/navmenu/images1/store_icon_d.png" width="33" height="32" border="0" id="stUI137_img"></span></td></tr></tbody></table></td></tr></tbody></table></a></td><td class="sttd"><a tabindex="100" onclick="return _STNS.UI.fbDmEnt(event,this)" onkeydown="return _STNS.UI.fbDmEnt(event,this)" onmouseover="return _STNS.UI.fbDmEnt(event,this)" onmouseout="return _STNS.UI.fbDmEnt(event,this)" href="http://video.khl.ru/live?locale=en" target="_blank" id="stUI138_lnk" class="sta" style="outline:none;text-decoration:none;cursor:hand"><table cellspacing="0" onmouseover="return _STNS.UI.fbDmEnt(event,this)" onmouseout="return _STNS.UI.fbDmEnt(event,this)" onmousemove="return _STNS.UI.fbDmEnt(event,this)" cellpadding="0px" id="stUI138" class="sttb" style="width:35px;height:43px;"><tbody><tr><td id="stUI138_itd" nowrap="" align="right" valign="middle" class="sttd" style="height:43px;background-repeat:repeat;"><table cellspacing="0" onmouseover="return _STNS.UI.fbDmEnt(event,this)" onmouseout="return _STNS.UI.fbDmEnt(event,this)" onmousemove="return _STNS.UI.fbDmEnt(event,this)" cellpadding="0" id="stUI138_itb" class="sttb" style="width:100%;height:100%;"><tbody><tr><td id="stUI138_cnt" nowrap="" class="sttd" align="right" valign="middle"> <span id="stUI138_txt" class="stsp" style="color:#000000;font:8pt 'Tahoma','Arial';text-decoration:none;"><img class="stimg" src="http://www.khl.ru/navmenu/images1/video_icon_d.png" width="33" height="32" border="0" id="stUI138_img"></span></td></tr></tbody></table></td></tr></tbody></table></a></td><td class="sttd"><table cellpadding="0" cellspacing="0" id="stUI139" class="sttb" style="line-height: 0pt; width: 30px; background-color: rgb(35, 47, 55); height: 43px; "><tbody><tr><td align="center" valign="middle"><img class="stimg" src="http://www.khl.ru/navmenu/images1/blank.gif" border="0"></td></tr></tbody></table></td><td class="sttd"><a tabindex="100" onclick="return _STNS.UI.fbDmEnt(event,this)" onkeydown="return _STNS.UI.fbDmEnt(event,this)" onmouseover="return _STNS.UI.fbDmEnt(event,this)" onmouseout="return _STNS.UI.fbDmEnt(event,this)" href="https://www.facebook.com/KHL.en" target="_blank" id="stUI140_lnk" class="sta" style="outline:none;text-decoration:none;cursor:hand"><table cellspacing="0" onmouseover="return _STNS.UI.fbDmEnt(event,this)" onmouseout="return _STNS.UI.fbDmEnt(event,this)" onmousemove="return _STNS.UI.fbDmEnt(event,this)" cellpadding="0px" id="stUI140" class="sttb" style="width:35px;height:43px;"><tbody><tr><td id="stUI140_itd" nowrap="" align="right" valign="middle" class="sttd" style="height:43px;background-repeat:repeat;"><table cellspacing="0" onmouseover="return _STNS.UI.fbDmEnt(event,this)" onmouseout="return _STNS.UI.fbDmEnt(event,this)" onmousemove="return _STNS.UI.fbDmEnt(event,this)" cellpadding="0" id="stUI140_itb" class="sttb" style="width:100%;height:100%;"><tbody><tr><td id="stUI140_cnt" nowrap="" class="sttd" align="right" valign="middle"> <span id="stUI140_txt" class="stsp" style="color:#000000;font:8pt 'Tahoma','Arial';text-decoration:none;"><img class="stimg" src="http://www.khl.ru/navmenu/images1/facebook_icon_d.png" width="31" height="31" border="0" id="stUI140_img"></span></td></tr></tbody></table></td></tr></tbody></table></a></td><td class="sttd"><a tabindex="100" onclick="return _STNS.UI.fbDmEnt(event,this)" onkeydown="return _STNS.UI.fbDmEnt(event,this)" onmouseover="return _STNS.UI.fbDmEnt(event,this)" onmouseout="return _STNS.UI.fbDmEnt(event,this)" href="http://instagram.com/khl" target="_blank" id="stUI141_lnk" class="sta" style="outline:none;text-decoration:none;cursor:hand"><table cellspacing="0" onmouseover="return _STNS.UI.fbDmEnt(event,this)" onmouseout="return _STNS.UI.fbDmEnt(event,this)" onmousemove="return _STNS.UI.fbDmEnt(event,this)" cellpadding="0px" id="stUI141" class="sttb" style="width:35px;height:43px;"><tbody><tr><td id="stUI141_itd" nowrap="" align="right" valign="middle" class="sttd" style="height:43px;background-repeat:repeat;"><table cellspacing="0" onmouseover="return _STNS.UI.fbDmEnt(event,this)" onmouseout="return _STNS.UI.fbDmEnt(event,this)" onmousemove="return _STNS.UI.fbDmEnt(event,this)" cellpadding="0" id="stUI141_itb" class="sttb" style="width:100%;height:100%;"><tbody><tr><td id="stUI141_cnt" nowrap="" class="sttd" align="right" valign="middle"> <span id="stUI141_txt" class="stsp" style="color:#000000;font:8pt 'Tahoma','Arial';text-decoration:none;"><img class="stimg" src="http://www.khl.ru/navmenu/images1/instagram_icon_d.png" width="31" height="31" border="0" id="stUI141_img"></span></td></tr></tbody></table></td></tr></tbody></table></a></td><td class="sttd"><a tabindex="100" onclick="return _STNS.UI.fbDmEnt(event,this)" onkeydown="return _STNS.UI.fbDmEnt(event,this)" onmouseover="return _STNS.UI.fbDmEnt(event,this)" onmouseout="return _STNS.UI.fbDmEnt(event,this)" href="http://www.youtube.com/khl" target="_blank" id="stUI142_lnk" class="sta" style="outline:none;text-decoration:none;cursor:hand"><table cellspacing="0" onmouseover="return _STNS.UI.fbDmEnt(event,this)" onmouseout="return _STNS.UI.fbDmEnt(event,this)" onmousemove="return _STNS.UI.fbDmEnt(event,this)" cellpadding="0px" id="stUI142" class="sttb" style="width:35px;height:43px;"><tbody><tr><td id="stUI142_itd" nowrap="" align="right" valign="middle" class="sttd" style="height:43px;background-repeat:repeat;"><table cellspacing="0" onmouseover="return _STNS.UI.fbDmEnt(event,this)" onmouseout="return _STNS.UI.fbDmEnt(event,this)" onmousemove="return _STNS.UI.fbDmEnt(event,this)" cellpadding="0" id="stUI142_itb" class="sttb" style="width:100%;height:100%;"><tbody><tr><td id="stUI142_cnt" nowrap="" class="sttd" align="right" valign="middle"> <span id="stUI142_txt" class="stsp" style="color:#000000;font:8pt 'Tahoma','Arial';text-decoration:none;"><img class="stimg" src="http://www.khl.ru/navmenu/images1/w_yt_ico_b.png" width="31" height="31" border="0" id="stUI142_img"></span></td></tr></tbody></table></td></tr></tbody></table></a></td></tr></tbody></table></td></tr></tbody></table><script type="text/javascript" language="javascript1.2">_STNS.UI.oUIs['stUI2'].fbShow();_STNS.UI.oUIs['stUI2'].fbInit();</script>
+<div id="panel"></div>
+
+
+<!--<div class="banner" style="width:990px;height:90px;margin:1px auto 0;position:relative;">-->
+<div class="banner" style="width:990px;margin:1px auto 0;position:relative;">
+<script type="text/javascript"><!--// <![CDATA[
+    OA_show(44);
+// ]]> --></script><a href="http://lama.khl.ru/www/delivery/ck.php?oaparams=2__bannerid=198__zoneid=44__source=clubs_en__cb=c44dd61986__oadest=http%3A%2F%2Fwww.khlallstar.com%2F" target="_blank"><img src="http://lama.khl.ru/www/images/727cb6ecf0c8c2b661d94518b1fe8b0c.jpeg" width="990" height="90" alt="" title="" border="0"></a><div id="beacon_c44dd61986" style="position: absolute; left: 0px; top: 0px; visibility: hidden;"><img src="http://lama.khl.ru/www/delivery/lg.php?bannerid=198&amp;campaignid=84&amp;zoneid=44&amp;source=clubs_en&amp;loc=http%3A%2F%2Fen.khl.ru%2Fclubs%2Fdinamo_mn%2Fteam%2F&amp;cb=c44dd61986" width="0" height="0" alt="" style="width: 0px; height: 0px;"></div>
+
+</div><!--.banner-->
+<div class="clear"></div>
+
+<div id="wrapper" style="padding: 0 11px;">
+<!--start of header-->
+<div id="header">
+    <div class="head">
+      <div itemscope="" itemtype="http://schema.org/Organization">
+        <a href="/" itemprop="url">
+          <img itemprop="logo" src="/img/3.0/logo_7_en.png" class="logo" alt="">
+        </a>
+      </div>
+        <ul class="menu">
+          <li><a href="/official/">About KHL</a></li>
+          <li><a href="http://tv.khl.ru/" target="_blank">KHL TV</a></li>
+        </ul>
+        <a href="http://www.khl.ru/clubs/dinamo_mn/team/" class="lang">Рус</a>
+        <div class="clear"></div>
+        <form action="/search/" class="search jqtransformdone">
+          <input type="text" value="search" name="s">
+          <input type="submit" value=" ">
+        </form>
+<!--        <div class="man"></div>-->
+    </div><!--.head-->
+
+<script src="/bitrix/templates/khl3.0/components/bitrix/menu/main_menu/script.js?1347279642" type="text/javascript"></script>
+
+<div class="mainMenu">
+<ul>
+    <li><a href="/news/"><span>News</span></a></li>
+      <li><a href="/calendar/"><span>Scores &amp; Schedules</span></a></li>
+      <li><a href="/standings/"><span>Standings</span></a></li>
+      <li><span><a href="/clubs/" class="active"><span>Teams</span></a></span></li>
+      <li><a href="/players/"><span>Players</span></a></li>
+      <li><a href="/stat/"><span>Stats</span></a></li>
+      <li><a href="/official/"><span>About KHL</span></a></li>
+      <li><a href="http://tv.khl.ru/"><span>KHL TV</span></a></li>
+      <li><a href="http://photo.khl.ru/main.php?lang=en_US"><span>Photobank</span></a></li>
+      <li><a href="http://tickets.khl.ru/"><span>Tickets</span></a></li>
+      <li><a href="http://store.khl.ru/en/"><span>KHL Shop</span></a></li>
+  </ul>
+</div>
+
+
+<!--end of header-->
+
+<!-- Calendar -->
+<div class="lenta">
+  <div class="days">
+    <div class="day" style="width:306px;"><div><span>today</span></div></div>
+    <div class="day" style="width:612px;"><div><span>tomorrow</span></div></div>
+  </div><!--.days-->
+
+
+<div class="carousel"><div>
+<div><div style="visibility: visible; overflow-x: hidden; overflow-y: hidden; position: relative; z-index: 2; left: 0px; width: 918px; ">
+<ul style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; position: relative; list-style-type: none; z-index: 1; width: 5049px; left: -2142px; ">
+    <li title="22.12.2014, Mon" style="overflow-x: hidden; overflow-y: hidden; float: left; width: 123px; height: 88px; ">
+    <div class="top">
+      <span class="left"><a href="/game/266/42346/protocol/" title="Game summary" style="color:inherit;font:inherit;text-decoration:none;">2:1 1:0 0:0</a></span>
+<!--      <span class="right">15:00 Мск</span>-->
+      <div class="clear"></div>
+    </div>
+    <table title="regular">
+      <tbody><tr class="blue">
+        <td><a href="/game/266/42346/resume/" style="color:inherit;font:inherit;text-decoration:none;" title="Jokerit">Jokerit</a></td>
+        <td class="num">3</td>
+      </tr>
+      <tr>
+        <td><a href="/game/266/42346/resume/" style="color:inherit;font:inherit;text-decoration:none;" title="Dinamo R">Dinamo R</a></td>
+        <td class="num">1</td>
+      </tr>
+    </tbody></table>
+    <a href="/game/266/42346/resume/" class="text left" title="resume">resume</a>
+<!--    <a href="http://text.khl.ru/text/42346.html" class="text left" title="Online">текст</a>-->
+    <a href="http://video.khl.ru/events/260881?locale=en" class="video right" title="video">video</a>  </li>
+    <li title="22.12.2014, Mon" style="overflow-x: hidden; overflow-y: hidden; float: left; width: 123px; height: 88px; ">
+    <div class="top">
+      <span class="left"><a href="/game/266/42101/protocol/" title="Game summary" style="color:inherit;font:inherit;text-decoration:none;">1:1 0:0 1:1 0:0 0:1</a></span>
+<!--      <span class="right">15:00 Мск</span>-->
+      <div class="clear"></div>
+    </div>
+    <table title="regular">
+      <tbody><tr>
+        <td><a href="/game/266/42101/resume/" style="color:inherit;font:inherit;text-decoration:none;" title="Slovan">Slovan</a></td>
+        <td class="num">2</td>
+      </tr>
+      <tr class="blue">
+        <td><a href="/game/266/42101/resume/" style="color:inherit;font:inherit;text-decoration:none;" title="Lada">Lada</a></td>
+        <td class="num">3</td>
+      </tr>
+    </tbody></table>
+    <a href="/game/266/42101/resume/" class="text left" title="resume">resume</a>
+<!--    <a href="http://text.khl.ru/text/42101.html" class="text left" title="Online">текст</a>-->
+    <a href="http://video.khl.ru/events/260885?locale=en" class="video right" title="video">video</a>    <span class="label">so</span>
+  </li>
+    <li title="22.12.2014, Mon" style="overflow-x: hidden; overflow-y: hidden; float: left; width: 123px; height: 88px; ">
+    <div class="top">
+      <span class="left"><a href="/game/266/42102/protocol/" title="Game summary" style="color:inherit;font:inherit;text-decoration:none;">2:0 2:1 1:2</a></span>
+<!--      <span class="right">15:00 Мск</span>-->
+      <div class="clear"></div>
+    </div>
+    <table title="regular">
+      <tbody><tr class="blue">
+        <td><a href="/game/266/42102/resume/" style="color:inherit;font:inherit;text-decoration:none;" title="Medvescak">Medvescak</a></td>
+        <td class="num">5</td>
+      </tr>
+      <tr>
+        <td><a href="/game/266/42102/resume/" style="color:inherit;font:inherit;text-decoration:none;" title="Neftekhimik">Neftekhimik</a></td>
+        <td class="num">3</td>
+      </tr>
+    </tbody></table>
+    <a href="/game/266/42102/resume/" class="text left" title="resume">resume</a>
+<!--    <a href="http://text.khl.ru/text/42102.html" class="text left" title="Online">текст</a>-->
+    <a href="http://video.khl.ru/events/260889?locale=en" class="video right" title="video">video</a>  </li>
+      <li title="23.12.2014, Tue" style="overflow-x: hidden; overflow-y: hidden; float: left; width: 123px; height: 88px; ">
+    <div class="top">
+      <span class="left"><a href="/game/266/42103/protocol/" title="Game summary" style="color:inherit;font:inherit;text-decoration:none;">2:1 1:1 1:0</a></span>
+<!--      <span class="right">15:00 Мск</span>-->
+      <div class="clear"></div>
+    </div>
+    <table title="regular">
+      <tbody><tr class="blue">
+        <td><a href="/game/266/42103/resume/" style="color:inherit;font:inherit;text-decoration:none;" title="Lokomotiv">Lokomotiv</a></td>
+        <td class="num">4</td>
+      </tr>
+      <tr>
+        <td><a href="/game/266/42103/resume/" style="color:inherit;font:inherit;text-decoration:none;" title="Vityaz">Vityaz</a></td>
+        <td class="num">2</td>
+      </tr>
+    </tbody></table>
+    <a href="/game/266/42103/resume/" class="text left" title="resume">resume</a>
+<!--    <a href="http://text.khl.ru/text/42103.html" class="text left" title="Online">текст</a>-->
+    <a href="http://video.khl.ru/events/261185?locale=en" class="video right" title="video">video</a>  </li>
+      <li title="yesterday" style="overflow-x: hidden; overflow-y: hidden; float: left; width: 123px; height: 88px; ">
+    <div class="top">
+      <span class="left"><a href="/game/266/42104/protocol/" title="Game summary" style="color:inherit;font:inherit;text-decoration:none;">0:3 0:0 1:1</a></span>
+<!--      <span class="right">15:00 Мск</span>-->
+      <div class="clear"></div>
+    </div>
+    <table title="regular">
+      <tbody><tr>
+        <td><a href="/game/266/42104/resume/" style="color:inherit;font:inherit;text-decoration:none;" title="Amur">Amur</a></td>
+        <td class="num">1</td>
+      </tr>
+      <tr class="blue">
+        <td><a href="/game/266/42104/resume/" style="color:inherit;font:inherit;text-decoration:none;" title="Sibir">Sibir</a></td>
+        <td class="num">4</td>
+      </tr>
+    </tbody></table>
+    <a href="/game/266/42104/resume/" class="text left" title="resume">resume</a>
+<!--    <a href="http://text.khl.ru/text/42104.html" class="text left" title="Online">текст</a>-->
+      </li>
+    <li title="yesterday" style="overflow-x: hidden; overflow-y: hidden; float: left; width: 123px; height: 88px; ">
+    <div class="top">
+      <span class="left"><a href="/game/266/42111/protocol/" title="Game summary" style="color:inherit;font:inherit;text-decoration:none;">3:1 1:2 0:2</a></span>
+<!--      <span class="right">15:00 Мск</span>-->
+      <div class="clear"></div>
+    </div>
+    <table title="regular">
+      <tbody><tr>
+        <td><a href="/game/266/42111/resume/" style="color:inherit;font:inherit;text-decoration:none;" title="Dinamo R">Dinamo R</a></td>
+        <td class="num">4</td>
+      </tr>
+      <tr class="blue">
+        <td><a href="/game/266/42111/resume/" style="color:inherit;font:inherit;text-decoration:none;" title="CSKA">CSKA</a></td>
+        <td class="num">5</td>
+      </tr>
+    </tbody></table>
+    <a href="/game/266/42111/resume/" class="text left" title="resume">resume</a>
+<!--    <a href="http://text.khl.ru/text/42111.html" class="text left" title="Online">текст</a>-->
+    <a href="http://video.khl.ru/events/261641?locale=en" class="video right" title="video">video</a>  </li>
+    <li title="yesterday" style="overflow-x: hidden; overflow-y: hidden; float: left; width: 123px; height: 88px; ">
+    <div class="top">
+      <span class="left"><a href="/game/266/42114/protocol/" title="Game summary" style="color:inherit;font:inherit;text-decoration:none;">0:1 1:1 3:4</a></span>
+<!--      <span class="right">15:00 Мск</span>-->
+      <div class="clear"></div>
+    </div>
+    <table title="regular">
+      <tbody><tr>
+        <td><a href="/game/266/42114/resume/" style="color:inherit;font:inherit;text-decoration:none;" title="Slovan">Slovan</a></td>
+        <td class="num">4</td>
+      </tr>
+      <tr class="blue">
+        <td><a href="/game/266/42114/resume/" style="color:inherit;font:inherit;text-decoration:none;" title="Neftekhimik">Neftekhimik</a></td>
+        <td class="num">6</td>
+      </tr>
+    </tbody></table>
+    <a href="/game/266/42114/resume/" class="text left" title="resume">resume</a>
+<!--    <a href="http://text.khl.ru/text/42114.html" class="text left" title="Online">текст</a>-->
+    <a href="http://video.khl.ru/events/261613?locale=en" class="video right" title="video">video</a>  </li>
+    <li title="yesterday" style="overflow-x: hidden; overflow-y: hidden; float: left; width: 123px; height: 88px; ">
+    <div class="top">
+      <span class="left"><a href="/game/266/42106/protocol/" title="Game summary" style="color:inherit;font:inherit;text-decoration:none;">0:2 1:1 0:1</a></span>
+<!--      <span class="right">15:00 Мск</span>-->
+      <div class="clear"></div>
+    </div>
+    <table title="regular">
+      <tbody><tr>
+        <td><a href="/game/266/42106/resume/" style="color:inherit;font:inherit;text-decoration:none;" title="Barys">Barys</a></td>
+        <td class="num">1</td>
+      </tr>
+      <tr class="blue">
+        <td><a href="/game/266/42106/resume/" style="color:inherit;font:inherit;text-decoration:none;" title="Ak Bars">Ak Bars</a></td>
+        <td class="num">4</td>
+      </tr>
+    </tbody></table>
+    <a href="/game/266/42106/resume/" class="text left" title="resume">resume</a>
+<!--    <a href="http://text.khl.ru/text/42106.html" class="text left" title="Online">текст</a>-->
+    <a href="http://video.khl.ru/events/261597?locale=en" class="video right" title="video">video</a>  </li>
+    <li title="yesterday" style="overflow-x: hidden; overflow-y: hidden; float: left; width: 123px; height: 88px; ">
+    <div class="top">
+      <span class="left"><a href="/game/266/42107/protocol/" title="Game summary" style="color:inherit;font:inherit;text-decoration:none;">0:0 2:0 1:0</a></span>
+<!--      <span class="right">15:00 Мск</span>-->
+      <div class="clear"></div>
+    </div>
+    <table title="regular">
+      <tbody><tr class="blue">
+        <td><a href="/game/266/42107/resume/" style="color:inherit;font:inherit;text-decoration:none;" title="Metallurg Mg">Metallurg Mg</a></td>
+        <td class="num">3</td>
+      </tr>
+      <tr>
+        <td><a href="/game/266/42107/resume/" style="color:inherit;font:inherit;text-decoration:none;" title="Avtomobilist">Avtomobilist</a></td>
+        <td class="num">0</td>
+      </tr>
+    </tbody></table>
+    <a href="/game/266/42107/resume/" class="text left" title="resume">resume</a>
+<!--    <a href="http://text.khl.ru/text/42107.html" class="text left" title="Online">текст</a>-->
+    <a href="http://video.khl.ru/events/261657?locale=en" class="video right" title="video">video</a>  </li>
+    <li title="yesterday" style="overflow-x: hidden; overflow-y: hidden; float: left; width: 123px; height: 88px; ">
+    <div class="top">
+      <span class="left"><a href="/game/266/42108/protocol/" title="Game summary" style="color:inherit;font:inherit;text-decoration:none;">1:0 2:2 0:1 0:1</a></span>
+<!--      <span class="right">15:00 Мск</span>-->
+      <div class="clear"></div>
+    </div>
+    <table title="regular">
+      <tbody><tr>
+        <td><a href="/game/266/42108/resume/" style="color:inherit;font:inherit;text-decoration:none;" title="Salavat Yulaev">Salavat Yulaev</a></td>
+        <td class="num">3</td>
+      </tr>
+      <tr class="blue">
+        <td><a href="/game/266/42108/resume/" style="color:inherit;font:inherit;text-decoration:none;" title="Avangard">Avangard</a></td>
+        <td class="num">4</td>
+      </tr>
+    </tbody></table>
+    <a href="/game/266/42108/resume/" class="text left" title="resume">resume</a>
+<!--    <a href="http://text.khl.ru/text/42108.html" class="text left" title="Online">текст</a>-->
+    <a href="http://video.khl.ru/events/261649?locale=en" class="video right" title="video">video</a>    <span class="label">ot</span>
+  </li>
+    <li title="yesterday" style="overflow-x: hidden; overflow-y: hidden; float: left; width: 123px; height: 88px; ">
+    <div class="top">
+      <span class="left"><a href="/game/266/42109/protocol/" title="Game summary" style="color:inherit;font:inherit;text-decoration:none;">0:0 1:0 1:1</a></span>
+<!--      <span class="right">15:00 Мск</span>-->
+      <div class="clear"></div>
+    </div>
+    <table title="regular">
+      <tbody><tr class="blue">
+        <td><a href="/game/266/42109/resume/" style="color:inherit;font:inherit;text-decoration:none;" title="Traktor">Traktor</a></td>
+        <td class="num">2</td>
+      </tr>
+      <tr>
+        <td><a href="/game/266/42109/resume/" style="color:inherit;font:inherit;text-decoration:none;" title="Lada">Lada</a></td>
+        <td class="num">1</td>
+      </tr>
+    </tbody></table>
+    <a href="/game/266/42109/resume/" class="text left" title="resume">resume</a>
+<!--    <a href="http://text.khl.ru/text/42109.html" class="text left" title="Online">текст</a>-->
+    <a href="http://video.khl.ru/events/261701?locale=en" class="video right" title="video">video</a>  </li>
+    <li title="yesterday" style="overflow-x: hidden; overflow-y: hidden; float: left; width: 123px; height: 88px; ">
+    <div class="top">
+      <span class="left"><a href="/game/266/42112/protocol/" title="Game summary" style="color:inherit;font:inherit;text-decoration:none;">1:0 1:2 3:0</a></span>
+<!--      <span class="right">15:00 Мск</span>-->
+      <div class="clear"></div>
+    </div>
+    <table title="regular">
+      <tbody><tr class="blue">
+        <td><a href="/game/266/42112/resume/" style="color:inherit;font:inherit;text-decoration:none;" title="Severstal">Severstal</a></td>
+        <td class="num">5</td>
+      </tr>
+      <tr>
+        <td><a href="/game/266/42112/resume/" style="color:inherit;font:inherit;text-decoration:none;" title="Dynamo Msk">Dynamo Msk</a></td>
+        <td class="num">2</td>
+      </tr>
+    </tbody></table>
+    <a href="/game/266/42112/resume/" class="text left" title="resume">resume</a>
+<!--    <a href="http://text.khl.ru/text/42112.html" class="text left" title="Online">текст</a>-->
+    <a href="http://video.khl.ru/events/261933?locale=en" class="video right" title="video">video</a>  </li>
+    <li title="yesterday" style="overflow-x: hidden; overflow-y: hidden; float: left; width: 123px; height: 88px; ">
+    <div class="top">
+      <span class="left"><a href="/game/266/42113/protocol/" title="Game summary" style="color:inherit;font:inherit;text-decoration:none;">1:2 1:0 0:0 1:0</a></span>
+<!--      <span class="right">15:00 Мск</span>-->
+      <div class="clear"></div>
+    </div>
+    <table title="regular">
+      <tbody><tr class="blue">
+        <td><a href="/game/266/42113/resume/" style="color:inherit;font:inherit;text-decoration:none;" title="Torpedo">Torpedo</a></td>
+        <td class="num">3</td>
+      </tr>
+      <tr>
+        <td><a href="/game/266/42113/resume/" style="color:inherit;font:inherit;text-decoration:none;" title="HC Sochi">HC Sochi</a></td>
+        <td class="num">2</td>
+      </tr>
+    </tbody></table>
+    <a href="/game/266/42113/resume/" class="text left" title="resume">resume</a>
+<!--    <a href="http://text.khl.ru/text/42113.html" class="text left" title="Online">текст</a>-->
+    <a href="http://video.khl.ru/events/261661?locale=en" class="video right" title="video">video</a>    <span class="label">ot</span>
+  </li>
+    <li title="yesterday" style="overflow-x: hidden; overflow-y: hidden; float: left; width: 123px; height: 88px; ">
+    <div class="top">
+      <span class="left"><a href="/game/266/42110/protocol/" title="Game summary" style="color:inherit;font:inherit;text-decoration:none;">0:0 1:1 0:0 0:0 1:0</a></span>
+<!--      <span class="right">15:00 Мск</span>-->
+      <div class="clear"></div>
+    </div>
+    <table title="regular">
+      <tbody><tr class="blue">
+        <td><a href="/game/266/42110/resume/" style="color:inherit;font:inherit;text-decoration:none;" title="Dinamo Mn">Dinamo Mn</a></td>
+        <td class="num">2</td>
+      </tr>
+      <tr>
+        <td><a href="/game/266/42110/resume/" style="color:inherit;font:inherit;text-decoration:none;" title="SKA">SKA</a></td>
+        <td class="num">1</td>
+      </tr>
+    </tbody></table>
+    <a href="/game/266/42110/resume/" class="text left" title="resume">resume</a>
+<!--    <a href="http://text.khl.ru/text/42110.html" class="text left" title="Online">текст</a>-->
+    <a href="http://video.khl.ru/events/261653?locale=en" class="video right" title="video">video</a>    <span class="label">so</span>
+  </li>
+    <li title="today" style="overflow-x: hidden; overflow-y: hidden; float: left; width: 123px; height: 88px; ">
+    <div class="top">
+      <span class="left">finished</span>
+<!--      <span class="right">15:00 Мск</span>-->
+      <div class="clear"></div>
+    </div>
+    <table title="regular">
+      <tbody><tr>
+        <td><a href="/game/266/42115/preview/" style="color:inherit;font:inherit;text-decoration:none;" title="Amur">Amur</a></td>
+        <td class="num">3</td>
+      </tr>
+      <tr class="blue">
+        <td><a href="/game/266/42115/preview/" style="color:inherit;font:inherit;text-decoration:none;" title="Sibir">Sibir</a></td>
+        <td class="num">5</td>
+      </tr>
+    </tbody></table>
+    <a href="http://text.khl.ru/en/42115.html" class="text left" title="Online">text</a>      </li>
+  <li title="today" style="overflow-x: hidden; overflow-y: hidden; float: left; width: 123px; height: 88px; ">
+    <div class="top">
+      <span class="left">preparation</span>
+<!--      <span class="right">15:00 Мск</span>-->
+      <div class="clear"></div>
+    </div>
+    <table title="regular">
+      <tbody><tr>
+        <td><a href="/game/266/42117/preview/" style="color:inherit;font:inherit;text-decoration:none;" title="Lokomotiv">Lokomotiv</a></td>
+        <td class="num"></td>
+      </tr>
+      <tr>
+        <td><a href="/game/266/42117/preview/" style="color:inherit;font:inherit;text-decoration:none;" title="Atlant">Atlant</a></td>
+        <td class="num"></td>
+      </tr>
+    </tbody></table>
+    <a href="http://text.khl.ru/en/42117.html" class="text left" title="Online">text</a>    <a href="http://video.khl.ru/events/209573?locale=en" class="video right" title="video">video</a>  </li>
+    <li title="tomorrow" style="overflow-x: hidden; overflow-y: hidden; float: left; width: 123px; height: 88px; ">
+    <div class="top">
+      <span class="left">26.12.2014</span>
+      <span class="right">17:00 msk</span>
+      <div class="clear"></div>
+    </div>
+    <table title="regular">
+      <tbody><tr>
+        <td><a href="/game/266/42118/preview/" style="color:inherit;font:inherit;text-decoration:none;" title="Avtomobilist">Avtomobilist</a></td>
+        <td class="num">&nbsp;</td>
+      </tr>
+      <tr>
+        <td><a href="/game/266/42118/preview/" style="color:inherit;font:inherit;text-decoration:none;" title="Ak Bars">Ak Bars</a></td>
+        <td class="num">&nbsp;</td>
+      </tr>
+    </tbody></table>
+    <a href="/game/266/42118/preview/" class="text left" title="preview">preview</a>
+          <a href="http://video.khl.ru/events/209577?locale=en" class="video right" title="video">video</a>
+      </li>
+    <li title="tomorrow" style="overflow-x: hidden; overflow-y: hidden; float: left; width: 123px; height: 88px; ">
+    <div class="top">
+      <span class="left">26.12.2014</span>
+      <span class="right">17:00 msk</span>
+      <div class="clear"></div>
+    </div>
+    <table title="regular">
+      <tbody><tr>
+        <td><a href="/game/266/42119/preview/" style="color:inherit;font:inherit;text-decoration:none;" title="Metallurg Mg">Metallurg Mg</a></td>
+        <td class="num">&nbsp;</td>
+      </tr>
+      <tr>
+        <td><a href="/game/266/42119/preview/" style="color:inherit;font:inherit;text-decoration:none;" title="Barys">Barys</a></td>
+        <td class="num">&nbsp;</td>
+      </tr>
+    </tbody></table>
+    <a href="/game/266/42119/preview/" class="text left" title="preview">preview</a>
+          <a href="http://video.khl.ru/events/209581?locale=en" class="video right" title="video">video</a>
+      </li>
+    <li title="tomorrow" style="overflow-x: hidden; overflow-y: hidden; float: left; width: 123px; height: 88px; ">
+    <div class="top">
+      <span class="left">26.12.2014</span>
+      <span class="right">19:00 msk</span>
+      <div class="clear"></div>
+    </div>
+    <table title="regular">
+      <tbody><tr>
+        <td><a href="/game/266/42121/preview/" style="color:inherit;font:inherit;text-decoration:none;" title="Severstal">Severstal</a></td>
+        <td class="num">&nbsp;</td>
+      </tr>
+      <tr>
+        <td><a href="/game/266/42121/preview/" style="color:inherit;font:inherit;text-decoration:none;" title="HC Sochi">HC Sochi</a></td>
+        <td class="num">&nbsp;</td>
+      </tr>
+    </tbody></table>
+    <a href="/game/266/42121/preview/" class="text left" title="preview">preview</a>
+          <a href="http://video.khl.ru/events/209589?locale=en" class="video right" title="video">video</a>
+      </li>
+    <li title="tomorrow" style="overflow-x: hidden; overflow-y: hidden; float: left; width: 123px; height: 88px; ">
+    <div class="top">
+      <span class="left">26.12.2014</span>
+      <span class="right">19:30 msk</span>
+      <div class="clear"></div>
+    </div>
+    <table title="regular">
+      <tbody><tr>
+        <td><a href="/game/266/42123/preview/" style="color:inherit;font:inherit;text-decoration:none;" title="Torpedo">Torpedo</a></td>
+        <td class="num">&nbsp;</td>
+      </tr>
+      <tr>
+        <td><a href="/game/266/42123/preview/" style="color:inherit;font:inherit;text-decoration:none;" title="Dynamo Msk">Dynamo Msk</a></td>
+        <td class="num">&nbsp;</td>
+      </tr>
+    </tbody></table>
+    <a href="/game/266/42123/preview/" class="text left" title="preview">preview</a>
+          <a href="http://video.khl.ru/events/209597?locale=en" class="video right" title="video">video</a>
+      </li>
+    <li title="tomorrow" style="overflow-x: hidden; overflow-y: hidden; float: left; width: 123px; height: 88px; ">
+    <div class="top">
+      <span class="left">26.12.2014</span>
+      <span class="right">19:30 msk</span>
+      <div class="clear"></div>
+    </div>
+    <table title="regular">
+      <tbody><tr>
+        <td><a href="/game/266/42124/preview/" style="color:inherit;font:inherit;text-decoration:none;" title="CSKA">CSKA</a></td>
+        <td class="num">&nbsp;</td>
+      </tr>
+      <tr>
+        <td><a href="/game/266/42124/preview/" style="color:inherit;font:inherit;text-decoration:none;" title="Avangard">Avangard</a></td>
+        <td class="num">&nbsp;</td>
+      </tr>
+    </tbody></table>
+    <a href="/game/266/42124/preview/" class="text left" title="preview">preview</a>
+          <a href="http://video.khl.ru/events/209601?locale=en" class="video right" title="video">video</a>
+      </li>
+    <li title="tomorrow" style="overflow-x: hidden; overflow-y: hidden; float: left; width: 123px; height: 88px; ">
+    <div class="top">
+      <span class="left">26.12.2014</span>
+      <span class="right">21:00 msk</span>
+      <div class="clear"></div>
+    </div>
+    <table title="regular">
+      <tbody><tr>
+        <td><a href="/game/266/42122/preview/" style="color:inherit;font:inherit;text-decoration:none;" title="Slovan">Slovan</a></td>
+        <td class="num">&nbsp;</td>
+      </tr>
+      <tr>
+        <td><a href="/game/266/42122/preview/" style="color:inherit;font:inherit;text-decoration:none;" title="SKA">SKA</a></td>
+        <td class="num">&nbsp;</td>
+      </tr>
+    </tbody></table>
+    <a href="/game/266/42122/preview/" class="text left" title="preview">preview</a>
+          <a href="http://video.khl.ru/events/209593?locale=en" class="video right" title="video">video</a>
+      </li>
+      <li title="27.12.2014, Sat" style="overflow-x: hidden; overflow-y: hidden; float: left; width: 123px; height: 88px; ">
+    <div class="top">
+      <span class="left">27.12.2014</span>
+      <span class="right">17:00 msk</span>
+      <div class="clear"></div>
+    </div>
+    <table title="regular">
+      <tbody><tr>
+        <td><a href="/game/266/42125/preview/" style="color:inherit;font:inherit;text-decoration:none;" title="Vityaz">Vityaz</a></td>
+        <td class="num">&nbsp;</td>
+      </tr>
+      <tr>
+        <td><a href="/game/266/42125/preview/" style="color:inherit;font:inherit;text-decoration:none;" title="Atlant">Atlant</a></td>
+        <td class="num">&nbsp;</td>
+      </tr>
+    </tbody></table>
+    <a href="/game/266/42125/preview/" class="text left" title="preview">preview</a>
+          <a href="http://video.khl.ru/events/209605?locale=en" class="video right" title="video">video</a>
+      </li>
+    <li title="27.12.2014, Sat" style="overflow-x: hidden; overflow-y: hidden; float: left; width: 123px; height: 88px; ">
+    <div class="top">
+      <span class="left">27.12.2014</span>
+      <span class="right">17:00 msk</span>
+      <div class="clear"></div>
+    </div>
+    <table title="regular">
+      <tbody><tr>
+        <td><a href="/game/266/42126/preview/" style="color:inherit;font:inherit;text-decoration:none;" title="Dinamo Mn">Dinamo Mn</a></td>
+        <td class="num">&nbsp;</td>
+      </tr>
+      <tr>
+        <td><a href="/game/266/42126/preview/" style="color:inherit;font:inherit;text-decoration:none;" title="Dinamo R">Dinamo R</a></td>
+        <td class="num">&nbsp;</td>
+      </tr>
+    </tbody></table>
+    <a href="/game/266/42126/preview/" class="text left" title="preview">preview</a>
+          <a href="http://video.khl.ru/events/209609?locale=en" class="video right" title="video">video</a>
+      </li>
+      <li title="28.12.2014, Sun" style="overflow-x: hidden; overflow-y: hidden; float: left; width: 123px; height: 88px; ">
+    <div class="top">
+      <span class="left">28.12.2014</span>
+      <span class="right">13:00 msk</span>
+      <div class="clear"></div>
+    </div>
+    <table title="regular">
+      <tbody><tr>
+        <td><a href="/game/266/42128/preview/" style="color:inherit;font:inherit;text-decoration:none;" title="Metallurg Nk">Metallurg Nk</a></td>
+        <td class="num">&nbsp;</td>
+      </tr>
+      <tr>
+        <td><a href="/game/266/42128/preview/" style="color:inherit;font:inherit;text-decoration:none;" title="Amur">Amur</a></td>
+        <td class="num">&nbsp;</td>
+      </tr>
+    </tbody></table>
+    <a href="/game/266/42128/preview/" class="text left" title="preview">preview</a>
+          <a href="http://video.khl.ru/events/209617?locale=en" class="video right" title="video">video</a>
+      </li>
+    <li title="28.12.2014, Sun" style="overflow-x: hidden; overflow-y: hidden; float: left; width: 123px; height: 88px; ">
+    <div class="top">
+      <span class="left">28.12.2014</span>
+      <span class="right">14:00 msk</span>
+      <div class="clear"></div>
+    </div>
+    <table title="regular">
+      <tbody><tr>
+        <td><a href="/game/266/42127/preview/" style="color:inherit;font:inherit;text-decoration:none;" title="Avangard">Avangard</a></td>
+        <td class="num">&nbsp;</td>
+      </tr>
+      <tr>
+        <td><a href="/game/266/42127/preview/" style="color:inherit;font:inherit;text-decoration:none;" title="Barys">Barys</a></td>
+        <td class="num">&nbsp;</td>
+      </tr>
+    </tbody></table>
+    <a href="/game/266/42127/preview/" class="text left" title="preview">preview</a>
+          <a href="http://video.khl.ru/events/209613?locale=en" class="video right" title="video">video</a>
+      </li>
+    <li title="28.12.2014, Sun" style="overflow-x: hidden; overflow-y: hidden; float: left; width: 123px; height: 88px; ">
+    <div class="top">
+      <span class="left">28.12.2014</span>
+      <span class="right">14:00 msk</span>
+      <div class="clear"></div>
+    </div>
+    <table title="regular">
+      <tbody><tr>
+        <td><a href="/game/266/42129/preview/" style="color:inherit;font:inherit;text-decoration:none;" title="Sibir">Sibir</a></td>
+        <td class="num">&nbsp;</td>
+      </tr>
+      <tr>
+        <td><a href="/game/266/42129/preview/" style="color:inherit;font:inherit;text-decoration:none;" title="Admiral">Admiral</a></td>
+        <td class="num">&nbsp;</td>
+      </tr>
+    </tbody></table>
+    <a href="/game/266/42129/preview/" class="text left" title="preview">preview</a>
+          <a href="http://video.khl.ru/events/209621?locale=en" class="video right" title="video">video</a>
+      </li>
+    <li title="28.12.2014, Sun" style="overflow-x: hidden; overflow-y: hidden; float: left; width: 123px; height: 88px; ">
+    <div class="top">
+      <span class="left">28.12.2014</span>
+      <span class="right">15:00 msk</span>
+      <div class="clear"></div>
+    </div>
+    <table title="regular">
+      <tbody><tr>
+        <td><a href="/game/266/42130/preview/" style="color:inherit;font:inherit;text-decoration:none;" title="Metallurg Mg">Metallurg Mg</a></td>
+        <td class="num">&nbsp;</td>
+      </tr>
+      <tr>
+        <td><a href="/game/266/42130/preview/" style="color:inherit;font:inherit;text-decoration:none;" title="Ak Bars">Ak Bars</a></td>
+        <td class="num">&nbsp;</td>
+      </tr>
+    </tbody></table>
+    <a href="/game/266/42130/preview/" class="text left" title="preview">preview</a>
+          <a href="http://video.khl.ru/events/209625?locale=en" class="video right" title="video">video</a>
+      </li>
+    <li title="28.12.2014, Sun" style="overflow-x: hidden; overflow-y: hidden; float: left; width: 123px; height: 88px; ">
+    <div class="top">
+      <span class="left">28.12.2014</span>
+      <span class="right">16:00 msk</span>
+      <div class="clear"></div>
+    </div>
+    <table title="regular">
+      <tbody><tr>
+        <td><a href="/game/266/42131/preview/" style="color:inherit;font:inherit;text-decoration:none;" title="Lada">Lada</a></td>
+        <td class="num">&nbsp;</td>
+      </tr>
+      <tr>
+        <td><a href="/game/266/42131/preview/" style="color:inherit;font:inherit;text-decoration:none;" title="Ugra">Ugra</a></td>
+        <td class="num">&nbsp;</td>
+      </tr>
+    </tbody></table>
+    <a href="/game/266/42131/preview/" class="text left" title="preview">preview</a>
+          <a href="http://video.khl.ru/events/209629?locale=en" class="video right" title="video">video</a>
+      </li>
+    <li title="28.12.2014, Sun" style="overflow-x: hidden; overflow-y: hidden; float: left; width: 123px; height: 88px; ">
+    <div class="top">
+      <span class="left">28.12.2014</span>
+      <span class="right">17:00 msk</span>
+      <div class="clear"></div>
+    </div>
+    <table title="regular">
+      <tbody><tr>
+        <td><a href="/game/266/42132/preview/" style="color:inherit;font:inherit;text-decoration:none;" title="Lokomotiv">Lokomotiv</a></td>
+        <td class="num">&nbsp;</td>
+      </tr>
+      <tr>
+        <td><a href="/game/266/42132/preview/" style="color:inherit;font:inherit;text-decoration:none;" title="Severstal">Severstal</a></td>
+        <td class="num">&nbsp;</td>
+      </tr>
+    </tbody></table>
+    <a href="/game/266/42132/preview/" class="text left" title="preview">preview</a>
+          <a href="http://video.khl.ru/events/209633?locale=en" class="video right" title="video">video</a>
+      </li>
+    <li title="28.12.2014, Sun" style="overflow-x: hidden; overflow-y: hidden; float: left; width: 123px; height: 88px; ">
+    <div class="top">
+      <span class="left">28.12.2014</span>
+      <span class="right">17:00 msk</span>
+      <div class="clear"></div>
+    </div>
+    <table title="regular">
+      <tbody><tr>
+        <td><a href="/game/266/42133/preview/" style="color:inherit;font:inherit;text-decoration:none;" title="Neftekhimik">Neftekhimik</a></td>
+        <td class="num">&nbsp;</td>
+      </tr>
+      <tr>
+        <td><a href="/game/266/42133/preview/" style="color:inherit;font:inherit;text-decoration:none;" title="Traktor">Traktor</a></td>
+        <td class="num">&nbsp;</td>
+      </tr>
+    </tbody></table>
+    <a href="/game/266/42133/preview/" class="text left" title="preview">preview</a>
+          <a href="http://video.khl.ru/events/209637?locale=en" class="video right" title="video">video</a>
+      </li>
+    <li title="28.12.2014, Sun" style="overflow-x: hidden; overflow-y: hidden; float: left; width: 123px; height: 88px; ">
+    <div class="top">
+      <span class="left">28.12.2014</span>
+      <span class="right">17:00 msk</span>
+      <div class="clear"></div>
+    </div>
+    <table title="regular">
+      <tbody><tr>
+        <td><a href="/game/266/42134/preview/" style="color:inherit;font:inherit;text-decoration:none;" title="CSKA">CSKA</a></td>
+        <td class="num">&nbsp;</td>
+      </tr>
+      <tr>
+        <td><a href="/game/266/42134/preview/" style="color:inherit;font:inherit;text-decoration:none;" title="HC Sochi">HC Sochi</a></td>
+        <td class="num">&nbsp;</td>
+      </tr>
+    </tbody></table>
+    <a href="/game/266/42134/preview/" class="text left" title="preview">preview</a>
+          <a href="http://video.khl.ru/events/209641?locale=en" class="video right" title="video">video</a>
+      </li>
+    <li title="28.12.2014, Sun" style="overflow-x: hidden; overflow-y: hidden; float: left; width: 123px; height: 88px; ">
+    <div class="top">
+      <span class="left">28.12.2014</span>
+      <span class="right">17:30 msk</span>
+      <div class="clear"></div>
+    </div>
+    <table title="regular">
+      <tbody><tr>
+        <td><a href="/game/266/42135/preview/" style="color:inherit;font:inherit;text-decoration:none;" title="SKA">SKA</a></td>
+        <td class="num">&nbsp;</td>
+      </tr>
+      <tr>
+        <td><a href="/game/266/42135/preview/" style="color:inherit;font:inherit;text-decoration:none;" title="Dynamo Msk">Dynamo Msk</a></td>
+        <td class="num">&nbsp;</td>
+      </tr>
+    </tbody></table>
+    <a href="/game/266/42135/preview/" class="text left" title="preview">preview</a>
+          <a href="http://video.khl.ru/events/209645?locale=en" class="video right" title="video">video</a>
+      </li>
+  </ul>
+</div></div>
+  <i class="mouseWheelButtons prev"></i>
+  <i class="mouseWheelButtons next"></i>
+</div></div><!--.carousel-->
+
+  <div class="clear"></div>
+  <div class="gamesin">
+    <div class="gamein"><div><span>regular</span></div></div>
+    <div class="gamein"><div><span>regular</span></div></div>
+    <div class="gamein"><div><span>regular</span></div></div>
+    <div class="gamein"><div><span>regular</span></div></div>
+    <div class="gamein"><div><span>regular</span></div></div>
+    <div class="gamein"><div><span>regular</span></div></div>
+  </div><!--.gamesin-->
+
+</div><!--.lenta-->
+
+
+
+<script type="text/javascript">
+$(document).ready(function() {
+  var days = $('.lenta .days');
+  var games = $('.lenta .gamesin');
+  $(".lenta .carousel > div > div > div").jCarouselLite({
+    btnNext: ".mouseWheelButtons.next",
+    btnPrev: ".mouseWheelButtons.prev",
+    visible: 6,
+    circular: false,
+    start: 14,
+    mouseWheel: true,
+    afterEnd: function(a) {
+      var basesize = 153;
+      var daysize = 0;
+      var oldday = '-';
+      days.empty();
+      games.empty();
+      $.each(a, function(key, val) {
+        var res = $(this).attr('title');
+        var tnres = $(this).find('table').attr('title');
+        games.append('<div class=\"gamein\"><div><span>' + tnres + '</span></div></div>');
+        if (res != oldday) {
+          if (oldday != '-') {
+            days.append('<div class=\"day\" style=\"width:' + daysize + 'px;\"><div><span>' + oldday + '</span></div></div>');
+            daysize = 0;
+          }
+          oldday = res;
+          daysize += basesize;
+        }
+        else {
+          daysize += basesize;
+        }
+      });
+      days.append('<div class=\"day\" style=\"width:' + daysize + 'px;\"><div><span>' + oldday + '</span></div></div>');
+    }
+  });
+});
+</script>
+<!-- /Calendar -->
+
+</div><!--#header-->
+
+<!--/UdmComment-->
+<div id="content">
+<div class="clubBlock">
+  <div class="logotype">
+    <img src="/upload/iblock/7e1/7e105347642037611c4dda340c4432ed.jpg" alt="Dinamo (Minsk)" border="0" width="100" height="100">
+  </div>
+  <div class="info">
+    <div class="header">
+      <h2>Dinamo</h2>
+    </div><!--.header-->
+    <table>
+      <tbody><tr class="top">
+        <td class="from">[Minsk]</td>
+        <td>
+          <a href="http://hcdinamo.by/">hcdinamo.by</a>
+          <a href="https://www.facebook.com/hockeyclubdinamominsk">
+            <img src="/bitrix/templates/khl3.0/images/icons/fb-m.png" class="soc" alt="Facebook">
+          </a>
+          <a href="http://vk.com/hc_dinamominsk">
+            <img src="/bitrix/templates/khl3.0/images/icons/vk-m.png" class="soc" alt="VKontakte">
+          </a>
+          <a href="https://twitter.com/hc_dinamominsk">
+            <img src="/bitrix/templates/khl3.0/images/icons/tw-m.png" class="soc" alt="Twitter">
+          </a>
+          <a href="http://www.youtube.com/user/hcdinamoby">
+            <img src="/bitrix/templates/khl3.0/images/icons/yt2.png" class="soc" alt="youtube">
+          </a>
+        </td>
+      </tr>
+      <tr>
+        <td>Founded in 1976 .</td>
+        <td>Head coach: Lubomir Pokovic (SVK)</td>
+      </tr>
+    </tbody></table>
+  </div><!--.info-->
+  <div class="clear"></div>
+</div><!--.clubBlock-->
+
+<div class="addlNav">
+  <ul>
+    <li><a href="/clubs/dinamo_mn/info/">Team</a></li>
+    <li>Players</li>
+    <li><a href="/clubs/dinamo_mn/stat/">Stats</a></li>
+    <li><a href="/clubs/dinamo_mn/photo/">Photo</a></li>
+    <li><a href="/clubs/dinamo_mn/video/">Video</a></li>
+    <li><a href="/clubs/dinamo_mn/arena/">Arena</a></li>
+  </ul>
+</div><!--.addlNav-->
+<div class="header">
+    <h2>KHL Team</h2>
+    <span class="date">As of 25.12.2014</span>
+</div><!--.header-->
+<table class="typical">
+  <thead>
+      <tr>
+          <td>#</td>
+          <td>Position</td>
+          <td>Name</td>
+          <td>Born</td>
+          <td class="country">Country</td>
+          <td>Contract</td>
+        </tr>
+    </thead>
+    <tbody><tr><td><div align="right">55</div></td><td><div align="left">defense</div></td><td><div align="left"><a href="/players/22147/">Bailen Nick</a></div></td><td><div align="center">12.12.1989</div></td><td class="country"><div align="left"><img src="/img/countries/country_7.gif" style="vertical-align:middle;" width="16" height="11" border="0" alt="USA">USA</div></td><td>30.04.2018</td></tr><tr><td><div align="right">18</div></td><td><div align="left">forward</div></td><td><div align="left"><a href="/players/20713/">Cheechoo Jonathan</a></div></td><td><div align="center">15.07.1980</div></td><td class="country"><div align="left"><img src="/img/countries/country_8.gif" style="vertical-align:middle;" width="16" height="11" border="0" alt="Canada">Canada</div></td><td>30.04.2016</td></tr><tr><td><div align="right">86</div></td><td><div align="left">defense</div></td><td><div align="left"><a href="/players/8073/">Chernook Pavel</a></div></td><td><div align="center">28.09.1986</div></td><td class="country"><div align="left"><img src="/img/countries/country_5.gif" style="vertical-align:middle;" width="16" height="11" border="0" alt="Belarus">Belarus</div></td><td>30.04.2015</td></tr><tr><td><div align="right">13</div></td><td><div align="left">forward</div></td><td><div align="left"><a href="/players/15622/">Drozd Sergei</a></div></td><td><div align="center">14.04.1990</div></td><td class="country"><div align="left"><img src="/img/countries/country_5.gif" style="vertical-align:middle;" width="16" height="11" border="0" alt="Belarus">Belarus</div></td><td>30.04.2015</td></tr><tr><td><div align="right">10</div></td><td><div align="left">forward</div></td><td><div align="left"><a href="/players/15217/">Ellison Matt</a></div></td><td><div align="center">08.12.1983</div></td><td class="country"><div align="left"><img src="/img/countries/country_8.gif" style="vertical-align:middle;" width="16" height="11" border="0" alt="Canada">Canada</div></td><td>30.04.2016</td></tr><tr><td><div align="right">89</div></td><td><div align="left">defense</div></td><td><div align="left"><a href="/players/17886/">Goroshko Oleg</a></div></td><td><div align="center">19.11.1989</div></td><td class="country"><div align="left"><img src="/img/countries/country_5.gif" style="vertical-align:middle;" width="16" height="11" border="0" alt="Belarus">Belarus</div></td><td>30.04.2016</td></tr><tr><td><div align="right">30</div></td><td><div align="left">goaltender</div></td><td><div align="left"><a href="/players/17543/">Haugen Lars</a></div></td><td><div align="center">19.03.1987</div></td><td class="country"><div align="left"><img src="/img/countries/country_17.gif" style="vertical-align:middle;" width="16" height="11" border="0" alt="Norway">Norway</div></td><td>30.04.2015</td></tr><tr><td><div align="right">17</div></td><td><div align="left">forward</div></td><td><div align="left"><a href="/players/4199/">Kalyuzhny Alexei</a></div></td><td><div align="center">13.06.1977</div></td><td class="country"><div align="left"><img src="/img/countries/country_1.gif" style="vertical-align:middle;" width="16" height="11" border="0" alt="Russia">Russia</div></td><td>30.04.2016</td></tr><tr><td><div align="right">70</div></td><td><div align="left">defense</div></td><td><div align="left"><a href="/players/18771/">Kaznadei Ilya</a></div></td><td><div align="center">22.06.1989</div></td><td class="country"><div align="left"><img src="/img/countries/country_5.gif" style="vertical-align:middle;" width="16" height="11" border="0" alt="Belarus">Belarus</div></td><td>30.04.2015</td></tr><tr><td><div align="right">11</div></td><td><div align="left">forward</div></td><td><div align="left"><a href="/players/15262/">Kulakov Alexander</a></div></td><td><div align="center">15.05.1983</div></td><td class="country"><div align="left"><img src="/img/countries/country_5.gif" style="vertical-align:middle;" width="16" height="11" border="0" alt="Belarus">Belarus</div></td><td>30.04.2015</td></tr><tr><td><div align="right">7</div></td><td><div align="left">forward</div></td><td><div align="left"><a href="/players/16870/">Linglet Charles</a></div></td><td><div align="center">22.06.1982</div></td><td class="country"><div align="left"><img src="/img/countries/country_5.gif" style="vertical-align:middle;" width="16" height="11" border="0" alt="Belarus">Belarus</div></td><td>30.04.2016</td></tr><tr><td><div align="right">14</div></td><td><div align="left">defense</div></td><td><div align="left"><a href="/players/17983/">Lisovets Evgeny</a></div></td><td><div align="center">12.11.1994</div></td><td class="country"><div align="left"><img src="/img/countries/country_5.gif" style="vertical-align:middle;" width="16" height="11" border="0" alt="Belarus">Belarus</div></td><td>30.04.2016</td></tr><tr><td><div align="right">28</div></td><td><div align="left">forward</div></td><td><div align="left"><a href="/players/16780/">Materukhin Alexander</a></div></td><td><div align="center">17.10.1981</div></td><td class="country"><div align="left"><img src="/img/countries/country_9.gif" style="vertical-align:middle;" width="16" height="11" border="0" alt="Ukraine">Ukraine</div></td><td>30.04.2015</td></tr><tr><td><div align="right">19</div></td><td><div align="left">forward</div></td><td><div align="left"><a href="/players/14292/">Meleshko Dmitry</a></div></td><td><div align="center">08.11.1982</div></td><td class="country"><div align="left"><img src="/img/countries/country_5.gif" style="vertical-align:middle;" width="16" height="11" border="0" alt="Belarus">Belarus</div></td><td>30.04.2016</td></tr><tr><td><div align="right">40</div></td><td><div align="left">goaltender</div></td><td><div align="left"><a href="/players/15245/">Milchakov Dmitry</a></div></td><td><div align="center">02.03.1986</div></td><td class="country"><div align="left"><img src="/img/countries/country_5.gif" style="vertical-align:middle;" width="16" height="11" border="0" alt="Belarus">Belarus</div></td><td>30.04.2017</td></tr><tr><td><div align="right">4</div></td><td><div align="left">defense</div></td><td><div align="left"><a href="/players/16945/">Nogachyov Evgeny</a></div></td><td><div align="center">31.08.1991</div></td><td class="country"><div align="left"><img src="/img/countries/country_5.gif" style="vertical-align:middle;" width="16" height="11" border="0" alt="Belarus">Belarus</div></td><td>30.04.2015</td></tr><tr><td><div align="right">67</div></td><td><div align="left">forward</div></td><td><div align="left"><a href="/players/15584/">Razvadovsky Pavel</a></div></td><td><div align="center">07.08.1989</div></td><td class="country"><div align="left"><img src="/img/countries/country_5.gif" style="vertical-align:middle;" width="16" height="11" border="0" alt="Belarus">Belarus</div></td><td>30.04.2015</td></tr><tr><td><div align="right">8</div></td><td><div align="left">defense</div></td><td><div align="left"><a href="/players/16171/">Shinkevich Ilya</a></div></td><td><div align="center">01.09.1989</div></td><td class="country"><div align="left"><img src="/img/countries/country_5.gif" style="vertical-align:middle;" width="16" height="11" border="0" alt="Belarus">Belarus</div></td><td>30.04.2015</td></tr><tr><td><div align="right">61</div></td><td><div align="left">forward</div></td><td><div align="left"><a href="/players/590/">Stepanov Andrei</a></div></td><td><div align="center">14.04.1986</div></td><td class="country"><div align="left"><img src="/img/countries/country_1.gif" style="vertical-align:middle;" width="16" height="11" border="0" alt="Russia">Russia</div></td><td>30.04.2015</td></tr><tr><td><div align="right">38</div></td><td><div align="left">forward</div></td><td><div align="left"><a href="/players/18954/">Szczechura Paul</a></div></td><td><div align="center">30.11.1985</div></td><td class="country"><div align="left"><img src="/img/countries/country_8.gif" style="vertical-align:middle;" width="16" height="11" border="0" alt="Canada">Canada</div></td><td>30.04.2016</td></tr><tr><td><div align="right">31</div></td><td><div align="left">goaltender</div></td><td><div align="left"><a href="/players/21019/">Taylor Danny</a></div></td><td><div align="center">28.04.1986</div></td><td class="country"><div align="left"><img src="/img/countries/country_8.gif" style="vertical-align:middle;" width="16" height="11" border="0" alt="Canada">Canada</div></td><td>30.04.2015</td></tr><tr><td><div align="right">16</div></td><td><div align="left">forward</div></td><td><div align="left"><a href="/players/16872/">Vesce Ryan</a></div></td><td><div align="center">07.04.1982</div></td><td class="country"><div align="left"><img src="/img/countries/country_7.gif" style="vertical-align:middle;" width="16" height="11" border="0" alt="USA">USA</div></td><td>30.04.2016</td></tr><tr><td><div align="right">21</div></td><td><div align="left">forward</div></td><td><div align="left"><a href="/players/16443/">Zakharov Konstantin</a></div></td><td><div align="center">02.05.1985</div></td><td class="country"><div align="left"><img src="/img/countries/country_5.gif" style="vertical-align:middle;" width="16" height="11" border="0" alt="Belarus">Belarus</div></td><td>30.04.2015</td></tr></tbody></table><br>
+<div class="header">
+    <h2>Injured</h2>
+    <span class="date">As of 25.12.2014</span>
+</div><!--.header-->
+<table class="typical">
+  <thead>
+      <tr>
+          <td>#</td>
+          <td>Position</td>
+          <td>Name</td>
+          <td>Born</td>
+          <td class="country">Country</td>
+          <td>Contract</td>
+        </tr>
+    </thead>
+    <tbody><tr><td><div align="right">91</div></td><td><div align="left">forward</div></td><td><div align="left"><a href="/players/17559/">Gavrus Artur</a></div></td><td><div align="center">03.01.1994</div></td><td class="country"><div align="left"><img src="/img/countries/country_5.gif" style="vertical-align:middle;" width="16" height="11" border="0" alt="Belarus">Belarus</div></td><td>30.04.2015</td></tr><tr><td><div align="right">25</div></td><td><div align="left">defense</div></td><td><div align="left"><a href="/players/16762/">Krajicek Lukas</a></div></td><td><div align="center">11.03.1983</div></td><td class="country"><div align="left"><img src="/img/countries/country_2.gif" style="vertical-align:middle;" width="16" height="11" border="0" alt="Czech Republic">Czech Republic</div></td><td>30.04.2015</td></tr><tr><td><div align="right">81</div></td><td><div align="left">defense</div></td><td><div align="left"><a href="/players/18916/">Svarny Ivan</a></div></td><td><div align="center">31.10.1984</div></td><td class="country"><div align="left"><img src="/img/countries/country_3.gif" style="vertical-align:middle;" width="16" height="11" border="0" alt="Slovakia">Slovakia</div></td><td>30.04.2016</td></tr></tbody></table><br>
+
+
+<div class="clear"></div>
+<table border="0" style="margin:1em 0;"><tbody><tr>
+<td>
+<script src="/js/3.0/social-likes.min.js"></script>
+<ul class="social-likes">
+  <li class="social-likes__widget social-likes__widget_facebook" title="Share link on Facebook"><span class="social-likes__button social-likes__button_facebook"><span class="social-likes__icon social-likes__icon_facebook"></span>Facebook</span></li>
+  <li class="social-likes__widget social-likes__widget_twitter" data-via="khl" data-related="khl" title="Share link on Twitter"><span class="social-likes__button social-likes__button_twitter"><span class="social-likes__icon social-likes__icon_twitter"></span>Twitter</span></li>
+  <li class="social-likes__widget social-likes__widget_vkontakte" title="Share link on VK"><span class="social-likes__button social-likes__button_vkontakte"><span class="social-likes__icon social-likes__icon_vkontakte"></span>Вконтакте</span></li>
+  <li class="social-likes__widget social-likes__widget_odnoklassniki" title="Share link on OK"><span class="social-likes__button social-likes__button_odnoklassniki"><span class="social-likes__icon social-likes__icon_odnoklassniki"></span>Одноклассники</span></li>
+  <li class="social-likes__widget social-likes__widget_plusone" title="Share link on Google+"><span class="social-likes__button social-likes__button_plusone"><span class="social-likes__icon social-likes__icon_plusone"></span>Google+</span></li>
+</ul>
+</td>
+</tr></tbody></table>
+<div class="clear"></div>
+<div class="Ydirect">
+<!-- Яндекс.Директ -->
+<script type="text/javascript">
+yandex_partner_id = 52223;
+yandex_site_bg_color = 'FFFFFF';
+yandex_stat_id = 8;
+yandex_ad_format = 'direct';
+yandex_direct_type = '728x90';
+yandex_direct_links_underline = false;
+yandex_direct_title_color = '242424';
+yandex_direct_url_color = '242424';
+yandex_direct_text_color = '242424';
+yandex_direct_hover_color = '01569E';
+yandex_direct_sitelinks_color = '0000CC';
+yandex_direct_favicon = false;
+yandex_no_sitelinks = false;
+document.write('<scr'+'ipt type="text/javascript" src="//an.yandex.ru/system/context.js"></scr'+'ipt>');
+</script><script type="text/javascript" src="//an.yandex.ru/system/context.js"></script><div id="Ya_sync_0"><yatag class="yap-reset ya-partner_ads" id="yap-Ya_sync_0-728x90"><yatag class="yap-main yap-font-size yap-layout-wide yap-border-type-none yap-border-radius-false yap-links-underline-false yap-logo-transparent-true yap-no-sitelinks-false  yap-type-horizontal yap-fixed yap-type-fixed-horizontal yap-type-728x90"><yatag class="yap-logo yap-logo-bg-color"><yatag class="yap-logo-position" style="width: 10px !important; height: 71px !important; "><a target="_blank" href="http://direct.yandex.ru/?partner" class="yap-logo-text yap-logo-bg-color yap-logo-color" style="display: inline-block !important; padding-top: 0px !important; padding-right: 0px !important; padding-bottom: 0px !important; padding-left: 0px !important; -webkit-transform: rotate(270deg) translateX(-100%) !important; -webkit-transform-origin-x: 0% !important; -webkit-transform-origin-y: 0% !important; font: normal normal normal 10px/10px Arial, sans-serif !important; color: rgb(0, 0, 0) !important; ">Яндекс.Директ</a></yatag><yatag class="yap-logo-arrow"></yatag></yatag><yatag class="yap-list-wrapper yap-border-color yap-font-family yap-bg-color "><table class="yap-list"><tbody><tr><td data-id="196875338" class="yap-item yap-border-color yap-bg-color yap-item-1"><yatag class="yap-item-inner"><yatag class="yap-content-block"><yatag class="yap-title-block"><yatag class="yap-title"><a href="http://an.yandex.ru/count/10RtaTvnrJe40000gQ00022Ejoh3IGM5dxyCbGAR0Mv3jm8h0OYq-RK31ucXkWjdcF__________3vwu000019sMHroSf9N6QPQmwzKd0Rhp-UMRtwwZP0gQitHSG06cWmcAgaJ1kxsezcppgW6bebhK0RogiSO2aRXd2q45ZxZwP_OFdxCbUXGFauq9cG92Z91J1w2GDGola5C7b9Cw3gUADQYWy48Oem6k-haER_5Z30i5iBRS2_81iG6oW52vbaTSmV__________3taO?test-tag=10081&amp;stat-id=1073741832" target="_blank" class="yap-title-text yap-title-font-size yap-title-color yap-hover-color">Реактивы. Материалы. Челябинск.</a></yatag></yatag><yatag class="yap-text"><a class="yap-body-text yap-text-color"><wbr>0 1</a></yatag><yatag class="yap-contacts"><yatag class="yap-domain"><a class="yap-domain-text yap-url-color yap-hover-color" target="_blank" href="http://an.yandex.ru/count/10RtaTvnrJe40000gQ00022Ejoh3IGM5dxyCbGAR0Mv3jm8h0OYq-RK31ucXkWjdcF__________3vwu000019sMHroSf9N6QPQmwzKd0Rhp-UMRtwwZP0gQitHSG06cWmcAgaJ1kxsezcppgW6bebhK0RogiSO2aRXd2q45ZxZwP_OFdxCbUXGFauq9cG92Z91J1w2GDGola5C7b9Cw3gUADQYWy48Oem6k-haER_5Z30i5iBRS2_81iG6oW52vbaTSmV__________3taO?test-tag=10081&amp;stat-id=1073741832">kalibr74.ru</a></yatag><yatag class="yap-address"><a class="yap-address-text yap-url-color yap-hover-color" target="_blank" href="http://an.yandex.ru/count/10RtaIQvMfa40000gQ00022Ejoh3IGM5dxyCbGAR0Mv3jm8h0OYq-RK31ucXkWjdcF__________3vwu000019sMHroSf9N6QPQmwzKd0Rhp-UMRtwwZP0gQitHSG06cWmcAgaJ1kxsezcppgWUbebhK0RogiSO2aRXd2q45ZxZwP_OFdxCbUXGFauq9cG92Z91J1w2GDGola5C7b9Cw3gUADQYWy48Oem6k-haER_5Z30i5iBRS2_81iG6oW52vbaTSmV__________3taO?test-tag=10081&amp;stat-id=1073741832">Адрес&nbsp;и&nbsp;телефон</a></yatag></yatag></yatag><yatag class="yap-adtune yap-adtune-touch"><yatag class="yap-adtune-button"><yatag class="yap-adtune-times">×</yatag><yatag class="yap-adtune-tooltip">Скрыть&nbsp;объявление</yatag></yatag></yatag><yatag class="yap-adtune-message"><table class="yap-adtune-message-table"><tbody><tr><td class="yap-adtune-message-text">Спасибо. Объявление скрыто.</td></tr></tbody></table></yatag></yatag></td><td data-id="83090115" class="yap-item yap-border-color yap-bg-color yap-item-2 yap-item-last"><yatag class="yap-item-inner"><yatag class="yap-content-block"><yatag class="yap-title-block"><yatag class="yap-title"><a href="http://an.yandex.ru/count/10RtaNwhbs440000gQ00022Ejoh3IGM5dxyCbGAR0Mv3jm8h0JA8lr6hK0Q9fHuiifW7dhW00004dP8N4vop-UMR1vQmwzKd0Rhp-UMRtwwZP0gQfImF0gPaYgEiFK-zh-0jQge1fP0cShoj0CW2aRXd2q45Zxx_osiAdxF6FRi8auq9cGP2Z91n0g2GdoIla742fuKZgA0rSO6Z0QxwkGvlyMCC2mMmjjmByW6n0RA0KBcI5nF1__________yFV1O0?test-tag=10081&amp;stat-id=1073741832" target="_blank" class="yap-title-text yap-title-font-size yap-title-color yap-hover-color">Переключатели, тумбера, кнопки</a></yatag></yatag><yatag class="yap-text"><a class="yap-body-text yap-text-color"><wbr>Поставка со&nbsp;склада и&nbsp;под заказ кнопок, тумблеров, выключателей</a></yatag><yatag class="yap-contacts"><yatag class="yap-domain"><a class="yap-domain-text yap-url-color yap-hover-color" target="_blank" href="http://an.yandex.ru/count/10RtaNwhbs440000gQ00022Ejoh3IGM5dxyCbGAR0Mv3jm8h0JA8lr6hK0Q9fHuiifW7dhW00004dP8N4vop-UMR1vQmwzKd0Rhp-UMRtwwZP0gQfImF0gPaYgEiFK-zh-0jQge1fP0cShoj0CW2aRXd2q45Zxx_osiAdxF6FRi8auq9cGP2Z91n0g2GdoIla742fuKZgA0rSO6Z0QxwkGvlyMCC2mMmjjmByW6n0RA0KBcI5nF1__________yFV1O0?test-tag=10081&amp;stat-id=1073741832">ferrol.ru</a></yatag></yatag></yatag><yatag class="yap-adtune yap-adtune-touch"><yatag class="yap-adtune-button"><yatag class="yap-adtune-times">×</yatag><yatag class="yap-adtune-tooltip">Скрыть&nbsp;объявление</yatag></yatag></yatag><yatag class="yap-adtune-message"><table class="yap-adtune-message-table"><tbody><tr><td class="yap-adtune-message-text">Спасибо. Объявление скрыто.</td></tr></tbody></table></yatag></yatag></td></tr></tbody></table></yatag></yatag></yatag></div><script type="text/javascript" src="http://an.yandex.ru/resource/context_static_r798.js" yandex_load_check="yes"></script><script type="text/javascript" charset="utf-8" src="//an.yandex.ru/page/52223?target-ref=http%3A%2F%2Fen.khl.ru%2Fclubs%2Fdinamo_mn%2Fteam%2F&amp;charset=utf-8&amp;stat-id=1073741832&amp;grab=dERpbmFtbyAoTWluc2spIHwg0KHQvtGB0YLQsNCyINC60L7QvNCw0L3QtNGLIDogS29udGluZW50YWwgSG9ja2V5IExlYWd1ZSAoS0hMKQoyRGluYW1vIAoyS0hMIFRlYW0gCjJJbmp1cmVkIA==&amp;callback=Ya[1419522730664]"></script>
+</div></div><!--#content-->
+
+<!--UdmComment-->
+<div id="sidebar">
+<!-- sidebar start -->
+<!--<ul class="sideLinks">
+  <li><a href="http://fanzone.khl.ru/votekhl.php" onclick="_vote = window.open('http://fanzone.khl.ru/votekhl.php','_picture','toobar=no,location=no,directories=no,status=no,scrollbars=yes,resizable=yes,copyhistory=no,WIDTH=620,HEIGHT=460'); return false;">Выбери голос Финала</a></li>
+</ul>-->
+
+<!--Banners-->
+<div class="banner">
+<script type="text/javascript"><!--// <![CDATA[
+    OA_show(45);
+// ]]> --></script><a href="http://lama.khl.ru/www/delivery/ck.php?oaparams=2__bannerid=48__zoneid=45__source=clubs_en__cb=679c3c72dd__oadest=http%3A%2F%2Fphoto.khl.ru%2F" target="_blank"><img src="http://lama.khl.ru/www/images/9c6571cf5c024271598eda4f5ebfdcd0.jpg" width="240" height="400" alt="" title="" border="0"></a><div id="beacon_679c3c72dd" style="position: absolute; left: 0px; top: 0px; visibility: hidden;"><img src="http://lama.khl.ru/www/delivery/lg.php?bannerid=48&amp;campaignid=35&amp;zoneid=45&amp;source=clubs_en&amp;loc=http%3A%2F%2Fen.khl.ru%2Fclubs%2Fdinamo_mn%2Fteam%2F&amp;cb=679c3c72dd" width="0" height="0" alt="" style="width: 0px; height: 0px;"></div>
+
+</div>
+<!--/Banners-->
+
+
+
+<!--Banners-->
+<div class="banner">
+<script type="text/javascript"><!--// <![CDATA[
+    OA_show(46);
+// ]]> --></script><a href="http://lama.khl.ru/www/delivery/ck.php?oaparams=2__bannerid=199__zoneid=60__source=clubs_en__cb=36d63af55d__oadest=http%3A%2F%2Fwww.khlallstar.com%2F" target="_blank"><img src="http://lama.khl.ru/www/images/efd8c58874367c99d7cd503db4aa68b0.jpeg" width="240" height="400" alt="" title="" border="0"></a><div id="beacon_36d63af55d" style="position: absolute; left: 0px; top: 0px; visibility: hidden;"><img src="http://lama.khl.ru/www/delivery/lg.php?bannerid=199&amp;campaignid=84&amp;zoneid=60&amp;source=clubs_en&amp;loc=http%3A%2F%2Fen.khl.ru%2Fclubs%2Fdinamo_mn%2Fteam%2F&amp;cb=36d63af55d" width="0" height="0" alt="" style="width: 0px; height: 0px;"></div>
+
+</div>
+<!--/Banners-->
+
+<!--<div class="header">
+  <h2><a href="/standings/">Плей-офф</a></h2>
+</div>--><!--.header-->
+
+<!--<div class="header" style="margin-top:19px;">
+  <h2><a href="/standings/265/cup/">Кубок Надежды</a></h2>
+</div>--><!--.header-->
+
+    <div class="header">
+      <h2><a href="/standings/">Regular season</a></h2>
+    </div><!--.header-->
+    <div class="turnir">
+        <table class="conf west">
+            <thead>
+                <tr>
+                    <td colspan="6">«WEST»</td>
+                </tr>
+                <tr>
+                    <th class="num"></th>
+                    <th>Team</th>
+                    <th class="num">GP</th>
+                    <th class="num" title="Wons in total">W*</th>
+                    <th class="num" title="Loses in total">L*</th>
+                    <th class="num">PTS</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td class="num"><b>1</b></td>
+                    <td><a href="/clubs/cska/" style="color:blue;text-decoration:none;">CSKA</a></td>
+                    <td class="num">38</td>
+                    <td class="num">32</td>
+                    <td class="num">6</td>
+                    <td class="num">92</td>
+                </tr>
+                <tr>
+                    <td class="num"><b>2</b></td>
+                    <td><a href="/clubs/jokerit/" style="color:blue;text-decoration:none;">Jokerit</a></td>
+                    <td class="num">40</td>
+                    <td class="num">29</td>
+                    <td class="num">11</td>
+                    <td class="num">86</td>
+                </tr>
+                <tr>
+                    <td class="num"><b>3</b></td>
+                    <td><a href="/clubs/ska/" style="text-decoration:none;">SKA</a></td>
+                    <td class="num">39</td>
+                    <td class="num">27</td>
+                    <td class="num">12</td>
+                    <td class="num">84</td>
+                </tr>
+                <tr>
+                    <td class="num"><b>4</b></td>
+                    <td><a href="/clubs/dynamo_msk/" style="text-decoration:none;">Dynamo Msk</a></td>
+                    <td class="num">38</td>
+                    <td class="num">26</td>
+                    <td class="num">12</td>
+                    <td class="num">78</td>
+                </tr>
+            </tbody>
+        </table>
+        <table class="conf expand">
+            <tbody>
+                <tr>
+                    <td class="num"><b>5</b></td>
+                    <td><a href="/clubs/dinamo_mn/" style="text-decoration:none;">Dinamo Mn</a></td>
+                    <td class="num">37</td>
+                    <td class="num">22</td>
+                    <td class="num">15</td>
+                    <td class="num">66</td>
+                </tr>
+                <tr>
+                    <td class="num"><b>6</b></td>
+                    <td><a href="/clubs/torpedo/" style="text-decoration:none;">Torpedo</a></td>
+                    <td class="num">39</td>
+                    <td class="num">19</td>
+                    <td class="num">20</td>
+                    <td class="num">58</td>
+                </tr>
+                <tr>
+                    <td class="num"><b>7</b></td>
+                    <td><a href="/clubs/hc_sochi/" style="text-decoration:none;">HC Sochi</a></td>
+                    <td class="num">38</td>
+                    <td class="num">19</td>
+                    <td class="num">19</td>
+                    <td class="num">57</td>
+                </tr>
+                <tr>
+                    <td class="num"><b>8</b></td>
+                    <td><a href="/clubs/lokomotiv/" style="text-decoration:none;">Lokomotiv</a></td>
+                    <td class="num">38</td>
+                    <td class="num">18</td>
+                    <td class="num">20</td>
+                    <td class="num">57</td>
+                </tr>
+                <tr style="border-top:2px solid gray;">
+                    <td class="num"><b>9</b></td>
+                    <td><a href="/clubs/vityaz/" style="text-decoration:none;">Vityaz</a></td>
+                    <td class="num">40</td>
+                    <td class="num">20</td>
+                    <td class="num">20</td>
+                    <td class="num">56</td>
+                </tr>
+                <tr>
+                    <td class="num"><b>10</b></td>
+                    <td><a href="/clubs/slovan/" style="text-decoration:none;">Slovan</a></td>
+                    <td class="num">41</td>
+                    <td class="num">17</td>
+                    <td class="num">24</td>
+                    <td class="num">52</td>
+                </tr>
+                <tr>
+                    <td class="num"><b>11</b></td>
+                    <td><a href="/clubs/atlant/" style="text-decoration:none;">Atlant</a></td>
+                    <td class="num">38</td>
+                    <td class="num">16</td>
+                    <td class="num">22</td>
+                    <td class="num">51</td>
+                </tr>
+                <tr>
+                    <td class="num"><b>12</b></td>
+                    <td><a href="/clubs/severstal/" style="text-decoration:none;">Severstal</a></td>
+                    <td class="num">38</td>
+                    <td class="num">16</td>
+                    <td class="num">22</td>
+                    <td class="num">50</td>
+                </tr>
+                <tr>
+                    <td class="num"><b>13</b></td>
+                    <td><a href="/clubs/dinamo_r/" style="text-decoration:none;">Dinamo R</a></td>
+                    <td class="num">41</td>
+                    <td class="num">15</td>
+                    <td class="num">26</td>
+                    <td class="num">46</td>
+                </tr>
+                <tr>
+                    <td class="num"><b>14</b></td>
+                    <td><a href="/clubs/medvescak/" style="text-decoration:none;">Medvescak</a></td>
+                    <td class="num">42</td>
+                    <td class="num">16</td>
+                    <td class="num">26</td>
+                    <td class="num">46</td>
+                </tr>
+            </tbody>
+        </table>
+    </div><!--.turnir-->
+    <div class="turnir">
+        <table class="conf east">
+            <thead>
+                <tr>
+                    <td colspan="6">«EAST»</td>
+                </tr>
+                <tr>
+                    <th class="num"></th>
+                    <th>Team</th>
+                    <th class="num">GP</th>
+                    <th class="num" title="Wons in total">W*</th>
+                    <th class="num" title="Loses in total">L*</th>
+                    <th class="num">PTS</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td class="num"><b>1</b></td>
+                    <td><a href="/clubs/ak_bars/" style="color:#e62e37;text-decoration:none;">Ak Bars</a></td>
+                    <td class="num">39</td>
+                    <td class="num">28</td>
+                    <td class="num">11</td>
+                    <td class="num">84</td>
+                </tr>
+                <tr>
+                    <td class="num"><b>2</b></td>
+                    <td><a href="/clubs/avangard/" style="color:#e62e37;text-decoration:none;">Avangard</a></td>
+                    <td class="num">40</td>
+                    <td class="num">26</td>
+                    <td class="num">14</td>
+                    <td class="num">80</td>
+                </tr>
+                <tr>
+                    <td class="num"><b>3</b></td>
+                    <td><a href="/clubs/metallurg_mg/" style="text-decoration:none;">Metallurg Mg</a></td>
+                    <td class="num">39</td>
+                    <td class="num">27</td>
+                    <td class="num">12</td>
+                    <td class="num">79</td>
+                </tr>
+                <tr>
+                    <td class="num"><b>4</b></td>
+                    <td><a href="/clubs/sibir/" style="text-decoration:none;">Sibir</a></td>
+                    <td class="num">38</td>
+                    <td class="num">24</td>
+                    <td class="num">14</td>
+                    <td class="num">70</td>
+                </tr>
+            </tbody>
+        </table>
+        <table class="conf expand">
+            <tbody>
+                <tr>
+                    <td class="num"><b>5</b></td>
+                    <td><a href="/clubs/salavat_yulaev/" style="text-decoration:none;">Salavat Yulaev</a></td>
+                    <td class="num">41</td>
+                    <td class="num">20</td>
+                    <td class="num">21</td>
+                    <td class="num">63</td>
+                </tr>
+                <tr>
+                    <td class="num"><b>6</b></td>
+                    <td><a href="/clubs/barys/" style="text-decoration:none;">Barys</a></td>
+                    <td class="num">40</td>
+                    <td class="num">18</td>
+                    <td class="num">22</td>
+                    <td class="num">56</td>
+                </tr>
+                <tr>
+                    <td class="num"><b>7</b></td>
+                    <td><a href="/clubs/traktor/" style="text-decoration:none;">Traktor</a></td>
+                    <td class="num">38</td>
+                    <td class="num">16</td>
+                    <td class="num">22</td>
+                    <td class="num">50</td>
+                </tr>
+                <tr>
+                    <td class="num"><b>8</b></td>
+                    <td><a href="/clubs/avtomobilist/" style="text-decoration:none;">Avtomobilist</a></td>
+                    <td class="num">39</td>
+                    <td class="num">15</td>
+                    <td class="num">24</td>
+                    <td class="num">47</td>
+                </tr>
+                <tr style="border-top:2px solid gray;">
+                    <td class="num"><b>9</b></td>
+                    <td><a href="/clubs/ugra/" style="text-decoration:none;">Ugra</a></td>
+                    <td class="num">39</td>
+                    <td class="num">15</td>
+                    <td class="num">24</td>
+                    <td class="num">46</td>
+                </tr>
+                <tr>
+                    <td class="num"><b>10</b></td>
+                    <td><a href="/clubs/admiral/" style="text-decoration:none;">Admiral</a></td>
+                    <td class="num">37</td>
+                    <td class="num">17</td>
+                    <td class="num">20</td>
+                    <td class="num">44</td>
+                </tr>
+                <tr>
+                    <td class="num"><b>11</b></td>
+                    <td><a href="/clubs/lada/" style="text-decoration:none;">Lada</a></td>
+                    <td class="num">40</td>
+                    <td class="num">15</td>
+                    <td class="num">25</td>
+                    <td class="num">41</td>
+                </tr>
+                <tr>
+                    <td class="num"><b>12</b></td>
+                    <td><a href="/clubs/neftekhimik/" style="text-decoration:none;">Neftekhimik</a></td>
+                    <td class="num">40</td>
+                    <td class="num">12</td>
+                    <td class="num">28</td>
+                    <td class="num">37</td>
+                </tr>
+                <tr>
+                    <td class="num"><b>13</b></td>
+                    <td><a href="/clubs/metallurg_nk/" style="text-decoration:none;">Metallurg Nk</a></td>
+                    <td class="num">38</td>
+                    <td class="num">13</td>
+                    <td class="num">25</td>
+                    <td class="num">36</td>
+                </tr>
+                <tr>
+                    <td class="num"><b>14</b></td>
+                    <td><a href="/clubs/amur/" style="text-decoration:none;">Amur</a></td>
+                    <td class="num">41</td>
+                    <td class="num">10</td>
+                    <td class="num">31</td>
+                    <td class="num">32</td>
+                </tr>
+            </tbody>
+        </table>
+    </div><!--.turnir-->
+<!--<div class="subscribe"><div>
+  <form action="">
+      <input type="text" value="введите свой e-mail" name="mail" />
+        <input type="submit" value=" " />
+    </form>
+</div></div>--><!--.subscribe-->
+
+
+<div class="social">
+<!-- Яндекс.Директ -->
+<script type="text/javascript">
+yandex_partner_id = 52223;
+yandex_site_bg_color = 'FFFFFF';
+yandex_site_charset = 'utf-8';
+yandex_ad_format = 'direct';
+yandex_direct_type = '240x400';
+yandex_direct_border_type = 'block';
+yandex_direct_header_bg_color = 'FEEAC7';
+yandex_direct_bg_color = 'FFFFFF';
+yandex_direct_border_color = 'D2D2D2';
+yandex_direct_title_color = '242424';
+yandex_direct_url_color = '242424';
+yandex_direct_text_color = '242424';
+yandex_direct_hover_color = '2B8ACD';
+yandex_direct_favicon = false;
+document.write('<sc'+'ript type="text/javascript" src="http://an.yandex.ru/system/context.js"></sc'+'ript>');
+</script><script type="text/javascript" src="http://an.yandex.ru/system/context.js"></script><div id="Ya_sync_1"><yatag class="yap-reset ya-partner_ads" id="yap-Ya_sync_1-240x400"><yatag class="yap-main yap-font-size yap-layout-medium yap-border-type-block yap-border-radius-false yap-links-underline-true yap-logo-transparent-false yap-no-sitelinks-false  yap-type-vertical yap-fixed yap-type-fixed-vertical yap-type-240x400"><yatag class="yap-logo yap-logo-bg-color"><yatag class="yap-logo-position"><a target="_blank" href="http://direct.yandex.ru/?partner" class="yap-logo-text yap-logo-bg-color yap-logo-color">Яндекс.Директ</a></yatag><yatag class="yap-logo-arrow"></yatag></yatag><yatag class="yap-list-wrapper yap-border-color yap-font-family yap-bg-color "><table class="yap-list"><tbody><tr><td data-id="87188130" class="yap-item yap-border-color yap-bg-color yap-item-1"><yatag class="yap-item-inner"><yatag class="yap-content-block"><yatag class="yap-title-block"><yatag class="yap-title"><a href="http://an.yandex.ru/count/10RtaMjn8wm40000gQ00022Ejoh3IGM5dxyCbGAR0Mv3jm8h0JE8lA0ORmQ9eG0SkfZ__________m-Uk00000ITgJGU3vop-UMR1vQmwzKd0Rhp-UMRtwwZP0gQeevhJgPiYg8g9bEzg_pMRwe1fPsEJP6uPmj11O-_hZya1v-_aye12PED2Pa6GeoGSGAWaE84hv1n0gUBCgYfkl1Nem6k-haER_5Z30i5iBRS2_81iG6oW52vgJGU3y7__________mzv5m00?test-tag=529249" target="_blank" class="yap-title-text yap-title-font-size yap-title-color yap-hover-color">Покупка радиодеталей с&nbsp;демонтажа.</a></yatag></yatag><yatag class="yap-text"><a class="yap-body-text yap-text-color"><wbr>Куплю микросхемы, транзисторы,<wbr>разъёмы и&nbsp;т.д.<wbr>На платах,<wbr>демонтаж,<wbr>новые и&nbsp;б.у.</a></yatag><yatag class="yap-contacts"><yatag class="yap-domain"><a class="yap-domain-text yap-url-color yap-hover-color" target="_blank" href="http://an.yandex.ru/count/10RtaMjn8wm40000gQ00022Ejoh3IGM5dxyCbGAR0Mv3jm8h0JE8lA0ORmQ9eG0SkfZ__________m-Uk00000ITgJGU3vop-UMR1vQmwzKd0Rhp-UMRtwwZP0gQeevhJgPiYg8g9bEzg_pMRwe1fPsEJP6uPmj11O-_hZya1v-_aye12PED2Pa6GeoGSGAWaE84hv1n0gUBCgYfkl1Nem6k-haER_5Z30i5iBRS2_81iG6oW52vgJGU3y7__________mzv5m00?test-tag=529249">dpmdpr.ucoz.ru</a></yatag><yatag class="yap-address"><a class="yap-address-text yap-url-color yap-hover-color" target="_blank" href="http://an.yandex.ru/count/10RtaOsz-ui40000gQ00022Ejoh3IGM5dxyCbGAR0Mv3jm8h0JE8lA0ORmQ9eG0SkfZ__________m-Uk00000ITgJGU3vop-UMR1vQmwzKd0Rhp-UMRtwwZP0gQeevhJgPiYg8g9bEzg_pMRwe7fPsEJP6uPmj11O-_hZya1v-_aye12PED2Pa6GeoGSGAWaE84hv1n0gUBCgYfkl1Nem6k-haER_5Z30i5iBRS2_81iG6oW52vgJGU3y7__________mzv5m00?test-tag=529249">Адрес&nbsp;и&nbsp;телефон</a></yatag></yatag></yatag><yatag class="yap-adtune yap-adtune-touch"><yatag class="yap-adtune-button"><yatag class="yap-adtune-times">×</yatag><yatag class="yap-adtune-tooltip">Скрыть&nbsp;объявление</yatag></yatag></yatag><yatag class="yap-adtune-message"><table class="yap-adtune-message-table"><tbody><tr><td class="yap-adtune-message-text">Спасибо. Объявление скрыто.</td></tr></tbody></table></yatag></yatag></td></tr><tr><td data-id="455101189" class="yap-item yap-border-color yap-bg-color yap-item-2"><yatag class="yap-item-inner"><yatag class="yap-content-block"><yatag class="yap-title-block"><yatag class="yap-title"><a href="http://an.yandex.ru/count/10RtaKGD3pO40000gQ00022Ejoh3IGM5dxyCbGAR0Mv3jm8h0JI8kkO5KGI9g_Jj29WQdhW00004dQjRSWASf9N6QPQmwzKd0Rhp-UMRtwwZP0gQkmi-AW6cH8gri0Io0RsnfPIr0Qe1fQWiCmIHk6SBGGMFj1ElDGIVl_xVyWAJZGcP0aACcE42jeJTjOYxe9ZX0g-OuGApYBkqYBkKbLC2fu0QgAs1-0MZ0QxwkGvlyMCC2mMmjjmByW6n0RA0KBchMt82mV__________3tmO?test-tag=529249" target="_blank" class="yap-title-text yap-title-font-size yap-title-color yap-hover-color">№1</a></yatag></yatag><yatag class="yap-text"><a class="yap-body-text yap-text-color"><wbr>Адрес, телефон, веб сайт, вы&nbsp;найдете в справочнике naidem-vse.<wbr>ru</a></yatag><yatag class="yap-contacts"><yatag class="yap-domain"><a class="yap-domain-text yap-url-color yap-hover-color" target="_blank" href="http://an.yandex.ru/count/10RtaKGD3pO40000gQ00022Ejoh3IGM5dxyCbGAR0Mv3jm8h0JI8kkO5KGI9g_Jj29WQdhW00004dQjRSWASf9N6QPQmwzKd0Rhp-UMRtwwZP0gQkmi-AW6cH8gri0Io0RsnfPIr0Qe1fQWiCmIHk6SBGGMFj1ElDGIVl_xVyWAJZGcP0aACcE42jeJTjOYxe9ZX0g-OuGApYBkqYBkKbLC2fu0QgAs1-0MZ0QxwkGvlyMCC2mMmjjmByW6n0RA0KBchMt82mV__________3tmO?test-tag=529249">naidem-vse.ru</a></yatag></yatag></yatag><yatag class="yap-adtune yap-adtune-touch"><yatag class="yap-adtune-button"><yatag class="yap-adtune-times">×</yatag><yatag class="yap-adtune-tooltip">Скрыть&nbsp;объявление</yatag></yatag></yatag><yatag class="yap-adtune-message"><table class="yap-adtune-message-table"><tbody><tr><td class="yap-adtune-message-text">Спасибо. Объявление скрыто.</td></tr></tbody></table></yatag></yatag></td></tr><tr><td data-id="83845209" class="yap-item yap-border-color yap-bg-color yap-item-3 yap-item-last"><yatag class="yap-item-inner"><yatag class="yap-content-block"><yatag class="yap-title-block"><yatag class="yap-title"><a href="http://an.yandex.ru/count/10RtaLQ5tfi40000gQ00022Ejoh3IGM5dxyCbGAR0Mv3jm8h0JM8i5nkx0Q9d68Oc1EUk00000ITeBIs1Pop-UMR1vQmwzKd0Rhp-UMRtwwZP0gQfImF0gQD28gf1VPFlQPkFckg0QMiOfK1lAuMa0EHk6SBGGMFll_BQmgViyOzkmYJZGcP1aACa742e91n0g-GSGAdXXoehpVL9AC1hlgv3c_nOmmB1R2st0lo0R41ie1GkQ2qjWN1__________yFVnO0?test-tag=529249" target="_blank" class="yap-title-text yap-title-font-size yap-title-color yap-hover-color">Как&nbsp;стать любимцем судьбы?</a></yatag></yatag><yatag class="yap-text"><a class="yap-body-text yap-text-color"><wbr>Хотите быть везунчиком, идти по&nbsp;жизни легко и&nbsp;играючи? Обучающий курс.</a></yatag><yatag class="yap-contacts"><yatag class="yap-domain"><a class="yap-domain-text yap-url-color yap-hover-color" target="_blank" href="http://an.yandex.ru/count/10RtaLQ5tfi40000gQ00022Ejoh3IGM5dxyCbGAR0Mv3jm8h0JM8i5nkx0Q9d68Oc1EUk00000ITeBIs1Pop-UMR1vQmwzKd0Rhp-UMRtwwZP0gQfImF0gQD28gf1VPFlQPkFckg0QMiOfK1lAuMa0EHk6SBGGMFll_BQmgViyOzkmYJZGcP1aACa742e91n0g-GSGAdXXoehpVL9AC1hlgv3c_nOmmB1R2st0lo0R41ie1GkQ2qjWN1__________yFVnO0?test-tag=529249">pavel-kolesov.ru</a></yatag></yatag></yatag><yatag class="yap-adtune yap-adtune-touch"><yatag class="yap-adtune-button"><yatag class="yap-adtune-times">×</yatag><yatag class="yap-adtune-tooltip">Скрыть&nbsp;объявление</yatag></yatag></yatag><yatag class="yap-adtune-message"><table class="yap-adtune-message-table"><tbody><tr><td class="yap-adtune-message-text">Спасибо. Объявление скрыто.</td></tr></tbody></table></yatag></yatag></td></tr></tbody></table></yatag></yatag></yatag></div><script type="text/javascript" src="http://an.yandex.ru/resource/context_static_r798.js" yandex_load_check="yes"></script>
+</div>
+
+<!-- birthday -->
+<!-- end birthday -->
+
+<!-- (C)2000-2013 Gemius SA - gemiusAudience / khl.ru / Other pages -->
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var pp_gemius_identifier = new String('bV06DwO1E65RsQf4pG_2T8UGXfbB3AdL8Ll4dAJ5DJD.i7');
+//--><!]]>
+</script>
+<script type="text/javascript" src="/js/counter_gemius.js"></script>
+
+
+<!-- sidebar end -->
+</div><!--#sidebar-->
+<div class="clear"></div>
+
+<!-- footer start -->
+<!--start of footer-->
+<div id="footer">
+  <div class="sponsors" style="margin-bottom:1em;">
+    <p>Official Sponsors of KHL Championship</p>
+    <div class="table">
+      <div class="row">
+        <div class="cell">
+          <a href="http://www.sogaz.ru/sogaz-sport/" class="d1en" target="_blank"></a>
+        </div>
+        <div class="cell">
+          <a href="http://moscow.megafon.ru/" class="d2en" target="_blank"></a>
+        </div>
+        <div class="cell">
+          <a href="http://www.chevrolet.ru/" class="d3en" target="_blank"></a>
+        </div>
+        <div class="cell">
+          <a href="http://www.pepsi.com/ru-ru/d" class="d4en" target="_blank"></a>
+        </div>
+        <div class="cell">
+          <a href="http://www.lays.ru/" class="d5en" target="_blank"></a>
+        </div>
+        <div class="cell">
+          <a href="http://nikon.ru/ru_RU/" class="d6en" target="_blank"></a>
+        </div>
+        <div class="cell">
+          <a href="http://www.severneftegazprom.com/" class="d8en" target="_blank"></a>
+        </div>
+        <div class="cell">
+          <a href="http://www.eriell.com/ru/" class="d7en" target="_blank"></a>
+        </div>
+        <div class="cell">
+          <a href="https://www.mnd.cz/" class="d9en" target="_blank"></a>
+        </div>
+      </div><!--.row-->
+    </div><!--.table-->
+  </div><!--.sponsors-->
+  <div class="sponsors">
+    <p>Informational partners of KHL Championship</p>
+    <div class="table">
+      <div class="row">
+        <div class="cell">
+          <a href="http://www.championat.com/" class="d10" target="_blank"></a>
+        </div>
+        <div class="cell">
+          <a href="http://sportfm.ru/" class="d11" target="_blank"></a>
+        </div>
+        <div class="cell" style="width:100%;">
+        </div>
+      </div><!--.row-->
+    </div><!--.table-->
+  </div><!--.sponsors-->
+
+
+<div class="menu">
+  <div>
+    <div class="col">
+      <ul>
+        <li class="title">LEAGUES: </li>
+      
+        <li><a title="Official website of the Kontinental Hockey League" href="http://en.khl.ru/">KHL</a> </li>
+      
+        <li><a title="Official website of the Supreme Hockey League" href="http://www.vhlru.ru/">SHL</a> </li>
+      
+        <li><a title="Official website of the Junior Hockey League Championship" href="http://mhl.khl.ru/">MHL A</a> </li>
+      
+        <li><a title="Official website of Junior Hockey League Tournament" href="http://mhl2.khl.ru/">MHL B</a> </li>
+      </ul>
+    </div>
+  
+<!--.col-->
+ 
+    <div class="col">
+      <ul>
+        <li class="title">COMMUNITY: </li>
+      
+        <li><a title="Twitter" href="http://twitter.com/@khl">Twitter</a> <a title="KHL Twitter Russian Page" href="http://twitter.com/@khl">[rus]</a> <a title="KHL Twitter English Page" href="http://twitter.com/@khl_eng">[eng]</a> </li>
+      
+        <li><a title="Facebook" href="http://www.facebook.com/KHL.ru">Facebook</a> <a title="KHL Facebook Russian Page" href="http://www.facebook.com/KHL.ru">[rus]</a> <a title="KHL Facebook English Page" href="http://www.facebook.com/KHL.en">[eng]</a> </li>
+      
+        <li><a title="Vkontakte" href="http://www.vkontakte.ru/khl">Vkontakte</a> </li>
+      
+        <li><a title="Youtube" href="http://www.youtube.com/khl">YouTube</a> </li>
+      </ul>
+    </div>
+  
+<!--.col-->
+ 
+    <div class="col">
+      <ul>
+        <li class="title">LEAGUE PROJECTS: </li>
+      
+        <li><a title="Shop" href="http://store.khl.ru/">Shop</a> </li>
+      
+        <li><a title="Live game video" href="http://www.khl.ru/video/live.php">Live game video</a> </li>
+      
+        <li><a title="Live play-by-plays" href="http://text.khl.ru/">Live play-by-plays</a> </li>
+      
+        <li><a title="Tickets" href="http://tickets.khl.ru/">Tickets</a> </li>
+      
+        <li><a title="Photobank" href="http://photo.khl.ru/">Photobank</a> </li>
+      
+        <li><a title="TV channel" href="http://tv.khl.ru/">TV channel</a> </li>
+      </ul>
+    </div>
+  
+<!--.col-->
+ 
+    <div class="col">
+      <ul>
+        <li class="title">MOBILE KHL: </li>
+      
+        <li><a title="iPhone app" href="http://itunes.apple.com/ru/app/khl/id455938766?l=ru&amp;ls=1&amp;mt=8">iPhone app</a> </li>
+      
+        <li><a title="iPad app" href="http://itunes.apple.com/ru/app/khl/id455938766?l=ru&amp;ls=1&amp;mt=8">iPad app</a> </li>
+      
+        <li><a title="Android app" href="https://market.android.com/details?id=ru.zennex.khl&amp;feature=search_result&amp;hl=ru">Android app</a> </li>
+      </ul>
+    </div>
+  
+<!--.col-->
+ 
+    <div class="col">
+      <ul>
+        <li class="title">EVENT: </li>
+      
+        <li><a title="All Star Game" href="http://www.khlallstar.ru/">All Star Game</a> </li>
+      
+        <li><a title="Exhibition games KHL vs NHL" href="http://www.khlnhl.ru/">Exhibition games KHL vs NHL</a> </li>
+      
+        <li><a title="Hockey cards" href="http://cards.khl.ru/">Hockey cards</a> </li>
+      
+        <li><a title="Club KHL" href="http://club.khl.ru/">KHL Card</a> </li>
+      </ul>
+    </div>
+  
+<!--.col-->
+ 
+    <div class="col">
+      <ul>
+        <li class="title">ORGANIZATION: </li>
+      
+        <li><a title="Russian Ice Hockey Federation" href="http://www.fhr.ru/">RIHF</a> </li>
+      
+        <li><a title="Kontinental Hockey League Players' Trade Union" href="http://www.khlptu.ru/">KHLPTU</a> </li>
+      
+        <li><a title="Sports Arbitration Court" href="http://www.tpprf-arb.ru/ru/sa/">Arbitration</a> </li>
+      
+        <li><a title="Russian Anti-Doping Agency «RUSADA" href="http://www.rusada.ru/">RUSADA</a> </li>
+      
+        <li><a title="Russian Amateur Hockey League" href="http://www.rlhl.org/">RAHL</a> </li>
+      </ul>
+    </div>
+  
+<!--.col-->
+ </div>
+</div>
+
+<!--.menu-->
+
+    <div class="copy">
+      <p>KHL.ru is the official Web site of the Kontinental Hockey League. All KHL logos and marks as well as all other proprietary materials depicted herein are the property of the KHL and may not be reproduced without the prior written consent of KHL Marketing, ltd</p>
+      <p><strong>© КХЛ 2008-2014. All Rights Reserved. </strong></p>
+    </div><!--.copy-->
+    <div class="counters">
+      <div>
+        <a href="http://www.liveinternet.ru/click;KHLru" target="_blank"><img src="//counter.yadro.ru/logo;KHLru?12.3" border="0" width="88" height="31" alt="" title="LiveInternet: показано число просмотров за 24 часа, посетителей за 24 часа и за сегодня"></a>
+      </div>
+      <div>
+        <a href="http://top100.rambler.ru/top100/"><img src="/img/counters/banner-88x31-rambler-gray2.gif" alt="Rambler's Top100" width="88" border="0" height="31"></a>
+      </div>
+      <div>
+        <a target="_top" href="http://top.mail.ru/jump?from=1472795"><img src="http://d9.c7.b6.a1.top.mail.ru/counter?id=1472795;t=48;l=1" border="0" height="31" width="88" alt="Рейтинг@Mail.ru"></a>
+      </div>
+    </div><!--.counters-->
+</div><!--#footer-->
+<!--end of footer-->
+
+</div><!--#wrapper-->
+
+
+<div style="visibility:hidden;position:absolute;display:none;">
+<!-- start counters -->
+
+<!--Rating@Mail.ru counter-->
+<script language="javascript" type="text/javascript">//<![CDATA[
+d=document;var a='';a+=';r='+escape(d.referrer);js=10;//]]></script>
+<script language="javascript1.1" type="text/javascript">//<![CDATA[
+a+=';j='+navigator.javaEnabled();js=11;//]]></script>
+<script language="javascript1.2" type="text/javascript">//<![CDATA[
+s=screen;a+=';s='+s.width+'*'+s.height;
+a+=';d='+(s.colorDepth?s.colorDepth:s.pixelDepth);js=12;//]]></script>
+<script language="javascript1.3" type="text/javascript">//<![CDATA[
+js=13;//]]></script><script language="javascript" type="text/javascript">//<![CDATA[
+d.write('<img src="http://d9.c7.b6.a1.top.mail.ru/counter?id=1472795;js='+js+
+a+';rand='+Math.random()+'" height="1" width="1" alt="top.mail.ru" border="0" />');
+if(11<js)d.write('<'+'!-- ');//]]></script><img src="http://d9.c7.b6.a1.top.mail.ru/counter?id=1472795;js=13;r=;j=false;s=1280*800;d=32;rand=0.3998268749564886" height="1" width="1" alt="top.mail.ru" border="0"><!-- 
+<noscript><img src="http://d9.c7.b6.a1.top.mail.ru/counter?js=na;id=1472795"
+height="1" width="1" alt="top.mail.ru" border="0" /></noscript>
+<script language="javascript" type="text/javascript">//<![CDATA[
+if(11<js)d.write('--'+'&#062');//]]></script>
+<!--// Rating@Mail.ru counter-->
+
+<!--LiveInternet counter--><script type="text/javascript">new Image().src = "//counter.yadro.ru/hit;KHLru?r" + escape(document.referrer) + ((typeof(screen)=="undefined")?"" : ";s"+screen.width+"*"+screen.height+"*" + (screen.colorDepth?screen.colorDepth:screen.pixelDepth)) + ";u"+escape(document.URL) + ";h"+escape(document.title.substring(0,80)) + ";" +Math.random();</script><!--/LiveInternet-->
+
+<!-- begin of Top100 code -->
+<script type="text/javascript" src="http://counter.rambler.ru/top100.jcn?1465347"></script><noscript>&lt;img src="http://counter.rambler.ru/top100.cnt?1465347" alt="" width="1" height="1" border="0" /&gt;</noscript>
+<!-- end of Top100 code -->
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+(function (d, w, c) {
+    (w[c] = w[c] || []).push(function() {
+        try {
+            w.yaCounter6571768 = new Ya.Metrika({id:6571768,
+                    webvisor:true,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true});
+        } catch(e) { }
+    });
+
+    var n = d.getElementsByTagName("script")[0],
+        s = d.createElement("script"),
+        f = function () { n.parentNode.insertBefore(s, n); };
+    s.type = "text/javascript";
+    s.async = true;
+    s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js";
+
+    if (w.opera == "[object Opera]") {
+        d.addEventListener("DOMContentLoaded", f, false);
+    } else { f(); }
+})(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript>&lt;div&gt;&lt;img src="//mc.yandex.ru/watch/6571768" style="position:absolute; left:-9999px;" alt="" /&gt;&lt;/div&gt;</noscript>
+<!-- /Yandex.Metrika counter -->
+
+<!-- tns-counter.ru -->
+<script language="JavaScript" type="text/javascript">
+  var img = new Image();
+  img.src = 'http://www.tns-counter.ru/V13a***R>' + document.referrer.replace(/\*/g,'%2a') + '*khl_ru/ru/UTF-8/tmsec=khl_total/' + Math.round(Math.random() * 1000000000);
+</script>
+<noscript>
+  &lt;img src="http://www.tns-counter.ru/V13a****khl_ru/ru/UTF-8/tmsec=khl_total/" width="1" height="1" alt="" /&gt;
+</noscript>
+<!--/ tns-counter.ru -->
+
+<!-- Begin comScore Tag -->
+<script>
+var _comscore = _comscore || [];
+_comscore.push({ c1: "2", c2: "15548144" });
+(function() {
+var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+el.parentNode.insertBefore(s, el);
+})();
+</script>
+<noscript>
+&lt;img src="http://b.scorecardresearch.com/p?c1=2&amp;amp;c2=15548144&amp;amp;cv=2.0&amp;amp;cj=1" /&gt;
+</noscript>
+<!-- End comScore Tag -->
+
+<!-- Begin GA -->
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-8042879-1']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+<!-- End GA -->
+
+<!-- end counters -->
+</div>
+<!-- footer end -->
+<!--/UdmComment-->
+
