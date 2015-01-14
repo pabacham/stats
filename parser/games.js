@@ -21,7 +21,7 @@ new Nightmare()
         var protocolUrl,
             data = [];
 
-        $('#content div.matches:eq(0)').each(function() {
+        $('#content div.matches').each(function() {
             $(this).find('div.match').each(function() {
                 protocolUrl = $(this).find('.translate .expand ul li:eq(0) a').attr('href');
                 if(protocolUrl) {

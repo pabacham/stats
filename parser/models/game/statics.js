@@ -44,7 +44,30 @@ exports.addGame = function(protocolUrl, next) {
                     teamA: [],
                     teamB: []
                 },
-                penaltySummary: []
+                penaltySummary: [],
+                teamsSummary: {
+                    powerplays: {
+                        teamB: {},
+                        teamA: {}
+                    },
+                    goalsFor: {
+                        teamB: {},
+                        teamA: {}
+                    },
+                    goalsAgainst: {
+                        teamB: {},
+                        teamA: {}
+                    }
+                },
+                shots: {
+                    teamA: [],
+                    teamB: []
+                },
+                hits: {
+                    teamA: [],
+                    teamB: []
+                },
+                shootouts: []
             };
 
             //PLAYERS SUMMARY
@@ -314,10 +337,194 @@ exports.addGame = function(protocolUrl, next) {
 
             game.penaltySummary = penaltySummary;
 
+            //TEAMS SUMMARY
+            var teamsTables = content.find('div.section:contains("TEAMS SUMMARY")'),
+                ppTable = teamsTables.find('table:eq(0) tbody'),
+                gfTable = teamsTables.find('table:eq(1) tbody'),
+                gATable = teamsTables.find('table:eq(2) tbody');
+
+            game.teamsSummary.powerplays = {
+                teamB: {
+                    gamesPlayed: +ppTable.find('tr:eq(0) td:eq(1)').text(),
+                    powerPlays: +ppTable.find('tr:eq(0) td:eq(2)').text(),
+                    powerPlayGoals: +ppTable.find('tr:eq(0) td:eq(3)').text(),
+                    powerPlayP: +ppTable.find('tr:eq(0) td:eq(4)').text(),
+                    shorthandedGoalsAgainst: +ppTable.find('tr:eq(0) td:eq(5)').text(),
+                    timesShorthanded: +ppTable.find('tr:eq(0) td:eq(6)').text(),
+                    powerplayGoalsAgainst: +ppTable.find('tr:eq(0) td:eq(7)').text(),
+                    penaltyKilling: +ppTable.find('tr:eq(0) td:eq(8)').text(),
+                    shorthandedGoals: +ppTable.find('tr:eq(0) td:eq(9)').text()
+                },
+                teamA: {
+                    gamesPlayed: +ppTable.find('tr:eq(1) td:eq(1)').text(),
+                    powerPlays: +ppTable.find('tr:eq(1) td:eq(2)').text(),
+                    powerPlayGoals: +ppTable.find('tr:eq(1) td:eq(3)').text(),
+                    powerPlayP: +ppTable.find('tr:eq(1) td:eq(4)').text(),
+                    shorthandedGoalsAgainst: +ppTable.find('tr:eq(1) td:eq(5)').text(),
+                    timesShorthanded: +ppTable.find('tr:eq(1) td:eq(6)').text(),
+                    powerplayGoalsAgainst: +ppTable.find('tr:eq(1) td:eq(7)').text(),
+                    penaltyKilling: +ppTable.find('tr:eq(1) td:eq(8)').text(),
+                    shorthandedGoals: +ppTable.find('tr:eq(1) td:eq(9)').text()
+                }
+            };
+
+            game.teamsSummary.goalsFor = {
+                teamB: {
+                    gamesPlayed: +gfTable.find('tr:eq(0) td:eq(1)').text(),
+                    fiveOn5: +gfTable.find('tr:eq(0) td:eq(2)').text(),
+                    fiveOn4: +gfTable.find('tr:eq(0) td:eq(3)').text(),
+                    fiveOn3: +gfTable.find('tr:eq(0) td:eq(4)').text(),
+                    fourOn4: +gfTable.find('tr:eq(0) td:eq(5)').text(),
+                    fourOn3: +gfTable.find('tr:eq(0) td:eq(6)').text(),
+                    threeOn3: +gfTable.find('tr:eq(0) td:eq(7)').text(),
+                    threeOn4: +gfTable.find('tr:eq(0) td:eq(8)').text(),
+                    threeOn5: +gfTable.find('tr:eq(0) td:eq(9)').text(),
+                    fourOn5: +gfTable.find('tr:eq(0) td:eq(10)').text(),
+                    en: +gfTable.find('tr:eq(0) td:eq(11)').text(),
+                    ps: +gfTable.find('tr:eq(0) td:eq(12)').text(),
+                    total: +gfTable.find('tr:eq(0) td:eq(13)').text()
+                },
+                teamA: {
+                    gamesPlayed: +gfTable.find('tr:eq(1) td:eq(1)').text(),
+                    fiveOn5: +gfTable.find('tr:eq(1) td:eq(2)').text(),
+                    fiveOn4: +gfTable.find('tr:eq(1) td:eq(3)').text(),
+                    fiveOn3: +gfTable.find('tr:eq(1) td:eq(4)').text(),
+                    fourOn4: +gfTable.find('tr:eq(1) td:eq(5)').text(),
+                    fourOn3: +gfTable.find('tr:eq(1) td:eq(6)').text(),
+                    threeOn3: +gfTable.find('tr:eq(1) td:eq(7)').text(),
+                    threeOn4: +gfTable.find('tr:eq(1) td:eq(8)').text(),
+                    threeOn5: +gfTable.find('tr:eq(1) td:eq(9)').text(),
+                    fourOn5: +gfTable.find('tr:eq(1) td:eq(10)').text(),
+                    en: +gfTable.find('tr:eq(1) td:eq(11)').text(),
+                    ps: +gfTable.find('tr:eq(1) td:eq(12)').text(),
+                    total: +gfTable.find('tr:eq(1) td:eq(13)').text()
+                }
+            };
+
+            game.teamsSummary.goalsAgainst = {
+                teamB: {
+                    gamesPlayed: +gATable.find('tr:eq(0) td:eq(1)').text(),
+                    fiveOn5: +gATable.find('tr:eq(0) td:eq(2)').text(),
+                    fiveOn4: +gATable.find('tr:eq(0) td:eq(3)').text(),
+                    fiveOn3: +gATable.find('tr:eq(0) td:eq(4)').text(),
+                    fourOn4: +gATable.find('tr:eq(0) td:eq(5)').text(),
+                    fourOn3: +gATable.find('tr:eq(0) td:eq(6)').text(),
+                    threeOn3: +gATable.find('tr:eq(0) td:eq(7)').text(),
+                    threeOn4: +gATable.find('tr:eq(0) td:eq(8)').text(),
+                    threeOn5: +gATable.find('tr:eq(0) td:eq(9)').text(),
+                    fourOn5: +gATable.find('tr:eq(0) td:eq(10)').text(),
+                    en: +gATable.find('tr:eq(0) td:eq(11)').text(),
+                    ps: +gATable.find('tr:eq(0) td:eq(12)').text(),
+                    total: +gATable.find('tr:eq(0) td:eq(13)').text()
+                },
+                teamA: {
+                    gamesPlayed: +gATable.find('tr:eq(1) td:eq(1)').text(),
+                    fiveOn5: +gATable.find('tr:eq(1) td:eq(2)').text(),
+                    fiveOn4: +gATable.find('tr:eq(1) td:eq(3)').text(),
+                    fiveOn3: +gATable.find('tr:eq(1) td:eq(4)').text(),
+                    fourOn4: +gATable.find('tr:eq(1) td:eq(5)').text(),
+                    fourOn3: +gATable.find('tr:eq(1) td:eq(6)').text(),
+                    threeOn3: +gATable.find('tr:eq(1) td:eq(7)').text(),
+                    threeOn4: +gATable.find('tr:eq(1) td:eq(8)').text(),
+                    threeOn5: +gATable.find('tr:eq(1) td:eq(9)').text(),
+                    fourOn5: +gATable.find('tr:eq(1) td:eq(10)').text(),
+                    en: +gATable.find('tr:eq(1) td:eq(11)').text(),
+                    ps: +gATable.find('tr:eq(1) td:eq(12)').text(),
+                    total: +gATable.find('tr:eq(1) td:eq(13)').text()
+                }
+            };
+
+            //SHOTS
+            var shotsTables = content.find('div.section:contains("SHOTS"):eq(0) table tbody tr');
+
+            shotsTables.each(function() {
+                game.shots.teamA.push({
+                    period: $(this).find('td:eq(0)').text(),
+                    goals: +$(this).find('td:eq(1)').text(),
+                    shotsOnGoal: +$(this).find('td:eq(2)').text(),
+                    shotsOnGoalP: +$(this).find('td:eq(3)').text()
+                });
+
+                game.shots.teamB.push({
+                    period: $(this).find('td:eq(0)').text(),
+                    goals: +$(this).find('td:eq(4)').text(),
+                    shotsOnGoal: +$(this).find('td:eq(5)').text(),
+                    shotsOnGoalP: +$(this).find('td:eq(6)').text()
+                });
+            });
+
+            //SHOTS
+            var hitsTables = content.find('div.section:contains("HITS AND BLOCKED SHOTS") table tbody tr');
+
+            hitsTables.each(function() {
+                game.hits.teamA.push({
+                    period: $(this).find('td:eq(0)').text(),
+                    blockedShots: +$(this).find('td:eq(1)').text(),
+                    hits: +$(this).find('td:eq(2)').text()
+                });
+
+                game.hits.teamB.push({
+                    period: $(this).find('td:eq(0)').text(),
+                    blockedShots: +$(this).find('td:eq(3)').text(),
+                    hits: +$(this).find('td:eq(4)').text()
+                });
+            });
+
+            //SHOOTOUTS SUMMARY
+            var shootoutsTables = content.find('div.section:contains("SHOOTOUTS SUMMARY") table tbody tr'),
+                shootout = {},
+                playerA,
+                playerB;
+
+            if(shootoutsTables.length) {
+
+                shootoutsTables.each(function() {
+                    shootout = {
+                        teamAPlayer: '',
+                        teamBPlayer: '',
+                        teamWins: '',
+                        goaltender: ''
+                    };
+
+                    playerA = $(this).find('td:eq(1)');
+                    shootout.teamAPlayer = parseInt(playerA.html().replace('<a href="/players/', ''));
+
+                    if($(this).find('td:eq(0)').hasClass('acenter')) {
+                        playerB = $(this).find('td:eq(4)');
+                        shootout.goaltender = 'B';
+                    } else {
+                        playerB = $(this).find('td:eq(2)');
+                        shootout.goaltender = 'A';
+                    }
+
+                    shootout.teamBPlayer = parseInt(playerB.html().replace('<a href="/players/', ''));
+
+                    if(playerA.html().indexOf('<strong>') >= 0) {
+                        shootout.teamWins = 'A';
+                    } else {
+                        shootout.teamWins = 'B';
+                    }
+
+                    game.shootouts.push(shootout);
+
+                });
+
+            }
+
             return game;
 
         }, function(data) {
-            console.log(data.penaltySummary);
+            if(data) {
+                model.addItem(data, function(err, res) {
+                    if(err) {
+                        console.log(err);
+                        return next && next(err);
+                    }
+
+                    console.log(colors.green(res.teamAName + ' - '+ res.teamBName  +' was added to the DB'));
+                    next && next();
+                });
+            }
         })
         .run();
 };
