@@ -1,0 +1,14 @@
+node_modules
+.idea
+*.css
+*.log
+*.pid
+*.sublime*
+common.ini
+public/bower_components
+public/css
+public/fonts/fontawesome*.*
+public/fonts/glyphicons*.*
+public/js/dist
+development.ini
+production.ini
