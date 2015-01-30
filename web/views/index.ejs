@@ -1,10 +1,8 @@
 <% include ./header %>
 <% include ./embedded %>
 
-<top-navigation></top-navigation>
-<main-navigation></main-navigation>
+
 <ui-view id="page-content"></ui-view>
-<bottom-navigation></bottom-navigation>
 
 <% include ./scripts %>
 <script src="//<%= etouches.browser.baseUrl + etouches.browser.reverseProxy %>/js/dist/<%= path %>.js"></script>

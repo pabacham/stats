@@ -15,8 +15,7 @@ module.exports = function (req, res, next) {
             enabledLanguages: [
                 { key: 'eng', name: 'English' }
             ],
-            browser: config.browser,
-            phpSession: req.phpSession
+            browser: config.browser
         }
     };
 

@@ -22,6 +22,7 @@ app.use(express.static(staticPath));
 
 //app.use(require('./middlewares/session').request);
 
+app.use(require('./middlewares/locals'));
 require('./modules')(app);
 app.use(connectDomain());
 app.use(require('./middlewares/errors'));
